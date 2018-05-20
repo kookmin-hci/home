@@ -4,8 +4,8 @@
 title: HCI Lab
 description: HCI Reseach Lab in Kookmin University
 keywords: HCI,Vision,Kookminuniversity,HCI-lab
-baseurl: /home # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-#baseurl:/home  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+#baseurl: # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+baseurl: /home  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://kookmin-hci.github.io/home  # url should be 'http://<github_username>.github.io/homepage' as before
 #url: http://127.0.0.1:4000
 img_path: /home/static/assets/img/pub  # url should be '/homepage/static/assets/img/blog' as before
