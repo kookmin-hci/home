@@ -1,4 +1,4 @@
-#index page sections
+#ndex page sections
 # custom following lines to edit your index page
 
 - id: projects
@@ -10,15 +10,21 @@
 - id: publication
   i18n: nav.publication
   name: Publications
-  tpl: blog.html
-  page: blog/
+  tpl: publications.html
+  page: publications/
   css: testimonials navy-section
 
 - id: members
   i18n: nav.members
-  name: Members
-  tpl: about.html
+  name: Contacts
+  tpl: members.html
   css: 
+#
+#- id: members
+#  i18n: nav.members
+#  name: Members
+#  tpl: about.html
+#  css: 
 #
 #- id: about-me
 #  i18n: nav.about_me
