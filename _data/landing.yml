@@ -3,7 +3,7 @@
 
 - id: projects
   i18n: nav.projects
-  name: Research
+  name: Under construction
   tpl: projects.html
   css: project
 
@@ -16,7 +16,7 @@
 
 - id: members
   i18n: nav.members
-  name: Contacts
+  name: Members
   tpl: members.html
   css: 
 #
@@ -59,7 +59,7 @@
 #
 - id: links
   i18n: nav.link
-  name: Contacts
+  name: Contact
   tpl: links.html
   css: contact
 
