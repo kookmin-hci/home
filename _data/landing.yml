@@ -3,7 +3,7 @@
 
 - id: projects
   i18n: nav.projects
-  name: Under construction
+  name: Research
   tpl: projects.html
   css: project
 
