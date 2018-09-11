@@ -16,7 +16,7 @@
 
 - last_name: Yoon
   first_name: Sang Min
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/yoon.jpg  # upload your avatar at directory and edit it.
   position: Professor
   desc: 
   website: https://kookmin-hci.github.io/home/
@@ -46,7 +46,7 @@
 - last_name: Song
   first_name: Jinjoo
   avatar: /static/assets/img/landing/song.jpg  # upload your avatar at directory and edit it.
-  position: Ph.D. candidate
+  position: Ph.D. Candidate
   desc: 
   website: 
   email: decpearl@kookmin.ac.kr  # Leave blank if you don't have now
@@ -60,7 +60,7 @@
 - last_name: Choi
   first_name: Jungwoo
   avatar: /static/assets/img/landing/choi.jpg  # upload your avatar at directory and edit it.
-  position: Master's student
+  position: Master's Student
   desc: 
   website: http://jungwoo.me
   email: noirmist@kookmin.ac.kr  # Leave blank if you don't have now
