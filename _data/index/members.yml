@@ -16,7 +16,7 @@
 
 - last_name: Yoon
   first_name: Sang Min
-  avatar: /static/assets/img/landing/yoon.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/yoon.png  # upload your avatar at directory and edit it.
   position: Professor
   desc: 
   website: https://kookmin-hci.github.io/home/
