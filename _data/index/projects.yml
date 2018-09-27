@@ -5,7 +5,7 @@
   i18n: 
   gh_user: 
   repo: 
-  img: 
+  img: /static/assets/img/landing/starry_night.png
   desc: Jinjoo Song, Heeryon Cho, Jungho Yoon, and Sang Min Yoon, "Structure Adaptive Total Variation Minimization-based Image Decomposition," IEEE Transactions on Circuits and Systems for Video Technology, Vol.28, No.9, pp. 2164-2176, September 2018.
 
 - name: Divide and Conquer-based 1D CNN Human Activity Recognition Using Test Data Sharpening
