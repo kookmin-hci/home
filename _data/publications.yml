@@ -58,6 +58,10 @@
 #      url: 'https://www.schrodinger.com'
 #    - name: 'Paper Submission Celebration Photo'
 #      url: 'https://twitter.com/fraser_lab/status/956318642454474752'
+- citation: 'G.-J. Yoon, H. J. Hwang, and **S. M. Yoon**, Visual Object Tracking Using Structured Sparse PCA-Based Appearance Representation and Online Learning. *Sensors*. 2018.'
+  date: 2018
+  image: '/static/assets/img/pub/blank.jpg'
+  pmid: TBD
 
 - citation: '**J. Song**, G.-J. Yoon, **H. Cho**, and **S. M. Yoon**, Structure preserving dimensionality reduction for visual object recognition. *Multimedia Tools and Applications*. 2018.'
   date: 2018
