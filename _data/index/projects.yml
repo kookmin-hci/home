@@ -3,7 +3,7 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: SketchHelper: Real-time Stroke Guidance for Freehand Sketch Retrieval
   i18n: 
-  gh_user: noirmist
+  gh_user: 
   repo: 
   img: /static/assets/img/landing/siamese_cnn.png
 desc: Jungwoo Choi, Heeryon Cho, Jinjoo Song, and Sang Min Yoon, "SketchHelper: Real-time Stroke Guidance for Freehand Sketch Retrieval," IEEE Transactions on Multimedia, 2019, Online.
