@@ -7,7 +7,7 @@
   gh_user: noirmist
   repo: 
   img: /static/assets/img/landing/siamese_cnn.png
-  desc: Jungwoo Choi, Heeryon Cho, Jinjoo Song, and Sang Min Yoon, "SketchHelper: Real-time Stroke Guidance for Freehand Sketch Retrieval," IEEE Transactions on Multimedia, 2019, No.9, pp. 2164-2176, 2019. (online)
+  desc: Jungwoo Choi, Heeryon Cho, Jinjoo Song, and Sang Min Yoon, "SketchHelper: Real-time Stroke Guidance for Freehand Sketch Retrieval," IEEE Transactions on Multimedia, 2019, No.9, pp. 2164-2176, Online, 2019.
 
 #- name: Visual Object Tracking Using Structured Sparse PCA-Based Appearance Representation and Online Learning
 #  i18n: 
