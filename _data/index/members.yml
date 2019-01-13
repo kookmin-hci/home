@@ -14,15 +14,15 @@
   cv: # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
 
-- last_name: Nam
-  first_name: Gi Pyo
-  avatar: /static/assets/img/landing/nam.jpg  # upload your avatar at directory and edit it.
-  position: Post-Doctoral Researcher
+- last_name: Choi
+  first_name: Jungwoo
+  avatar: /static/assets/img/landing/choi.jpg  # upload your avatar at directory and edit it.
+  position: Master's Student
   desc: 
-  website: https://sites.google.com/view/gi-pyo-nam
-  email: keeps.nam@gmail.com  # Leave blank if you don't have now
-  github_username:    # Leave blank if you don't have now
-  linkedin_id:   # Leave blank if you don't have now
+  website: http://jungwoo.me
+  email: noirmist@kookmin.ac.kr  # Leave blank if you don't have now
+  github_username: noirmist  # Leave blank if you don't have now
+  linkedin_id: dnp4vr  # Leave blank if you don't have now
   facebook_username:  # Leave blank if you don't have now
   twitter_username:  # Leave blank if you don't have now
   cv: # An online CV can be printed as PDF, leave blank if you don't have now
@@ -56,15 +56,15 @@
   cv: # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
 
-- last_name: Choi
-  first_name: Jungwoo
-  avatar: /static/assets/img/landing/choi.jpg  # upload your avatar at directory and edit it.
+- last_name: Mun
+  first_name: Hwanbok
+  avatar: /static/assets/img/landing/mun.jpg  # upload your avatar at directory and edit it.
   position: Master's Student
   desc: 
-  website: http://jungwoo.me
-  email: noirmist@kookmin.ac.kr  # Leave blank if you don't have now
-  github_username: noirmist   # Leave blank if you don't have now
-  linkedin_id: dnp4vr  # Leave blank if you don't have now
+  website: 
+  email: helloiwsy@gmail.com  # Leave blank if you don't have now
+  github_username: helloiwsy   # Leave blank if you don't have now
+  linkedin_id:   # Leave blank if you don't have now
   facebook_username:  # Leave blank if you don't have now
   twitter_username:  # Leave blank if you don't have now
   cv: # An online CV can be printed as PDF, leave blank if you don't have now
