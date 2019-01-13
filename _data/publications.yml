@@ -58,6 +58,16 @@
 #      url: 'https://www.schrodinger.com'
 #    - name: 'Paper Submission Celebration Photo'
 #      url: 'https://twitter.com/fraser_lab/status/956318642454474752'
+- citation: '**J. Choi**, **H. Cho**, **J. Song**, and **S. M. Yoon**, SketchHelper: Real-time Stroke Guidance for Freehand Sketch Retrieval. *IEEE Transactions on Multimedia*. 2019.'
+  date: 2019
+  image: '/static/assets/img/pub/blank.jpg'
+  pmid: TBD
+
+- citation: '**H. Cho** and **S. M. Yoon**, Applying Singular Value Decomposition on Accelerometer Data for 1D Convolutional Neural Network Based Fall Detection. *Electronics Lettters*. 2019.'
+  date: 2019
+  image: '/static/assets/img/pub/blank.jpg'
+  pmid: TBD
+
 - citation: 'G.-J. Yoon, H. J. Hwang, and **S. M. Yoon**, Visual Object Tracking Using Structured Sparse PCA-Based Appearance Representation and Online Learning. *Sensors*. 2018.'
   date: 2018
   image: '/static/assets/img/pub/blank.jpg'
