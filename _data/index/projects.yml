@@ -1,7 +1,7 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: SketchHelper Real-time Stroke Guidance for Freehand Sketch Retrieval
+- name: SketchHelper>: Real-time Stroke Guidance for Freehand Sketch Retrieval
   i18n: 
   gh_user: 
   repo: 
