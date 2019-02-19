@@ -67,6 +67,9 @@
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
+  links:
+    - name: SketchHelper Network and Application Code on Github
+      url: https://github.com/kookmin-hci/sketch_helper
 
 - citation: '**H. Cho** and **S. M. Yoon**, Applying Singular Value Decomposition on Accelerometer Data for 1D Convolutional Neural Network Based Fall Detection. *Electronics Lettters*. 2019.'
   date: 2019
