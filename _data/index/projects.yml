@@ -15,13 +15,6 @@
   img: /static/assets/img/landing/3Dpose_for_media_art.png
   desc: 최정우, 윤상민, 박제성, 한광수, "단안 카메라 기반 실시간 3차원 사람 자세 인식을 통한 미디어 아트 기술," 제31회 영상처리 및 이해에 관한 워크샵(IPIU). 2019년 2월.
 
-- name: Visual Object Tracking Using Structured Sparse PCA-Based Appearance Representation and Online Learning
-  i18n: 
-  gh_user: 
-  repo: 
-  img: /static/assets/img/landing/pca_object_detection.png
-  desc: Gang-Joon Yoon, Hyeong Jae Hwang, and Sang Min Yoon, "Visual Object Tracking Using Structured Sparse PCA-Based Appearance Representation and Online Learning," Sensors, Vol.18, No.10, pp. 3513:1-3513:19, October 2018.
-  
 - name: SketchHelper&#58; Real-time Stroke Guidance for Freehand Sketch Retrieval
   i18n:
   gh_user: kookmin-hci
@@ -29,6 +22,13 @@
   img: /static/assets/img/landing/SketchHelper_example.png
   desc: Jungwoo Choi, Heeryon Cho, Jinjoo Song, and Sang Min Yoon, "SketchHelper&#58; Real-time Stroke Guidance for Freehand Sketch Retrieval," IEEE Transactions on Multimedia, 2019, Online.
 
+- name: Visual Object Tracking Using Structured Sparse PCA-Based Appearance Representation and Online Learning
+  i18n: 
+  gh_user: 
+  repo: 
+  img: /static/assets/img/landing/pca_object_detection.png
+  desc: Gang-Joon Yoon, Hyeong Jae Hwang, and Sang Min Yoon, "Visual Object Tracking Using Structured Sparse PCA-Based Appearance Representation and Online Learning," Sensors, Vol.18, No.10, pp. 3513:1-3513:19, October 2018.
+  
 - name: Structure Adaptive Total Variation Minimization-based Image Decomposition
   i18n: 
   gh_user: decpearl
