@@ -16,9 +16,9 @@
   desc: 최정우, 윤상민, 박제성, 한광수, "단안 카메라 기반 실시간 3차원 사람 자세 인식을 통한 미디어 아트 기술," 제31회 영상처리 및 이해에 관한 워크샵(IPIU). 2019년 2월.
   
 - name: SketchHelper&#58; Real-time Stroke Guidance for Freehand Sketch Retrieval
-  i18n: 
-  gh_user: kookmin-hci
-  repo: sketch_helper
+  i18n:
+  gh_user: 
+  repo: 
   img: /static/assets/img/landing/SketchHelper_example.png
   desc: Jungwoo Choi, Heeryon Cho, Jinjoo Song, and Sang Min Yoon, "SketchHelper&#58; Real-time Stroke Guidance for Freehand Sketch Retrieval," IEEE Transactions on Multimedia, 2019, Online.
 
