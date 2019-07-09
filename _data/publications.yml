@@ -58,6 +58,13 @@
 #      url: 'https://www.schrodinger.com'
 #    - name: 'Paper Submission Celebration Photo'
 #      url: 'https://twitter.com/fraser_lab/status/956318642454474752'
+- citation: 'Yong YuK Won, **Sang Min Yoon**, Dong Sun Seo , Reduction of amplified spontaneous emission noise using a statistical signal adaptive filter,*Optical and Quantum Electronics*. April 2019'
+  date: 2019
+  image: '/static/assets/img/pub/blank.jpg'
+  pmid: TBD
+  links:
+    - name: Paper
+      url: https://link.springer.com/article/10.1007/s11082-019-1844-6
 - citation: 'Sang Gook Kim, **Sang Min Yoon**, Maria Yang, **Jung Woo Choi**, Haluk Akay, Edward Burnell, AI for design: Virtual design assistant,*CIRP Annals Online*. April 2019'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
