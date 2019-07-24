@@ -62,10 +62,10 @@
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
-  pdf: 'https://doi.org/10.1016/j.neucom.2019.07.025'
+  pdf: 'https://www.growkudos.com/publications/10.1049%25252Fel.2018.6117/reader'
   links:
     - name: Source code
-      url: https://github.com/decpearl/SSPCA_SC
+      url: https://github.com/heeryoncho/SVD_applied_fall_detection
 - citation: '**Jinjoo Song**, Gangjoon Yoon, Kwangsoo Hahn, and **Sang Min Yoon** , Subspace clustering via structure-enforced dictionary learning, *Neurocomputing*, 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
