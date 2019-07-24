@@ -88,6 +88,7 @@
 - citation: '**J. Choi**, **H. Cho**, **J. Song**, and **S. M. Yoon**, SketchHelper: Real-time Stroke Guidance for Freehand Sketch Retrieval. *IEEE Transactions on Multimedia*. 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
+  pdf: 'https://ieeexplore.ieee.org/document/8607060'
   pmid: TBD
   links:
     - name: SketchHelper Network and Application Code on Github
