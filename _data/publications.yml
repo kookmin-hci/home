@@ -62,24 +62,24 @@
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
-  links:
-    - name: Paper
-      url: https://link.springer.com/article/10.1007/s11082-019-1844-6
+  pdf: 'https://link.springer.com/article/10.1007/s11082-019-1844-6'
+  
 - citation: 'Sang Gook Kim, **Sang Min Yoon**, Maria Yang, **Jung Woo Choi**, Haluk Akay, Edward Burnell, AI for design: Virtual design assistant,*CIRP Annals Online*. April 2019'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
-  links:
-    - name: Paper
-      url: https://doi.org/10.1016/j.cirp.2019.03.024
+  pdf: 'https://doi.org/10.1016/j.cirp.2019.03.024'
+  
 - citation: 'H. J. Hwang, G. Yoon and **S. M. Yoon**, Optimized Clustering Scheme-Based Robust Vanishing Point Detection. *IEEE Transactions on Intelligent Transportation Systems*. 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
+  
 - citation: 'G. Yoon, **H. Cho**, Y. Won and **S. M. Yoon**, Three-Dimensional Density Estimation of Flame Captured From Multiple Cameras. *IEEE Access*. 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
+  
 - citation: '**최정우**, **윤상민**, 박제성, 한광수, 단안 카메라 기반 실시간 3차원 사람 자세 인식을 통한 미디어 아트 기술. *제31회 영상처리 및 이해에 관한 워크샵(IPIU)*. 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
@@ -91,7 +91,7 @@
   pdf: 'https://ieeexplore.ieee.org/document/8607060'
   pmid: TBD
   links:
-    - name: SketchHelper Network and Application Code on Github
+    - name: Source code
       url: https://github.com/kookmin-hci/sketch_helper
 
 - citation: '**H. Cho** and **S. M. Yoon**, Applying Singular Value Decomposition on Accelerometer Data for 1D Convolutional Neural Network Based Fall Detection. *Electronics Lettters*. 2019.'
