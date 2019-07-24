@@ -58,7 +58,7 @@
 #      url: 'https://www.schrodinger.com'
 #    - name: 'Paper Submission Celebration Photo'
 #      url: 'https://twitter.com/fraser_lab/status/956318642454474752'
-- citation: '**Jinjoo Song**, Gangjoon Yoon, Kwangsoo Hahn, and **Sang Min Yoo** , Subspace clustering via structure-enforced dictionary learning,*Neurocomputing*, 2019.'
+- citation: '**Jinjoo Song**, Gangjoon Yoon, Kwangsoo Hahn, and **Sang Min Yoon** , Subspace clustering via structure-enforced dictionary learning,*Neurocomputing*, 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
