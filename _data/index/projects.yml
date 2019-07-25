@@ -8,12 +8,12 @@
   img: /static/assets/img/landing/AI_for_ design.png
   desc: Sang Gook Kim, Sang Min Yoon, Maria Yang, Jung Woo Choi, Haluk Akay, Edward Burnell, "AI for design&#58; Virtual design assistant",CIRP Annals, April 2019, Online.
 
-- name: 단안 카메라 기반 실시간 3차원 사람 자세 인식을 통한 미디어 아트 기술
+- name: Subspace clustering via structure-enforced dictionary learning
   i18n: 
-  gh_user: 
-  repo: 
-  img: /static/assets/img/landing/3Dpose_for_media_art.png
-  desc: 최정우, 윤상민, 박제성, 한광수, "단안 카메라 기반 실시간 3차원 사람 자세 인식을 통한 미디어 아트 기술," 제31회 영상처리 및 이해에 관한 워크샵(IPIU). 2019년 2월.
+  gh_user:decpearl
+  repo:SSPCA_SC
+  img: /static/assets/img/landing/SSC.png
+  desc: Jinjoo Song, Gangjoon Yoon, Kwangsoo Hahn, and Sang Min Yoon, "Subspace clustering via structure-enforced dictionary learning," Neurocomputing, JUL 2019.
 
 - name: SketchHelper&#58; Real-time Stroke Guidance for Freehand Sketch Retrieval
   i18n:
