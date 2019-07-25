@@ -10,8 +10,8 @@
 
 - name: Subspace clustering via structure-enforced dictionary learning
   i18n: 
-  gh_user:decpearl
-  repo:SSPCA_SC
+  gh_user: decpearl
+  repo: SSPCA_SC
   img: /static/assets/img/landing/SSC.png
   desc: Jinjoo Song, Gangjoon Yoon, Kwangsoo Hahn, and Sang Min Yoon, "Subspace clustering via structure-enforced dictionary learning," Neurocomputing, JUL 2019.
 
