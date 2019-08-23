@@ -153,6 +153,11 @@
   date: 2017
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
+  
+- citation: '**Song-Mi Lee**, **Heeryon Cho**, and **Sang Min Yoon**, “Statistical Noise Reduction for Robust Human Activity Recognition,” *IEEE MFI*, Novenmber 2017.'
+  date: 2017
+  image: '/static/assets/img/pub/blank.jpg'
+  pmid: TBD
 
 - citation: '**Heeryon Cho** and **Sang Min Yoon**, “Issues in Visualizing Intercultural Dialogue Using Word2Vec and t-SNE,” *CandC*, September 2017.'
   date: 2017
@@ -165,6 +170,11 @@
   pmid: TBD
   
 - citation: 'Han Wang, **Sang Min Yoon**, David K. Han, and Hanseok Ko, “A Feature Descriptor Based on the Local Patch Clustering Distribution for Illumination-robust Image Matching,” *Pattern Recognition Letters*, July 2017.'
+  date: 2017
+  image: '/static/assets/img/pub/blank.jpg'
+  pmid: TBD
+  
+- citation: '**Heeryon Cho** and **Sang Min Yoon**, “Improving sentiment classification through distinct word selection,” *IEEE HSI*, July 2017. (BEST PAPER AWARD)'
   date: 2017
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
@@ -200,16 +210,6 @@
   pmid: TBD
 
 - citation: 'Yong-Yuk Won, **Sang Min Yoon**, and Dongsun Seo, “Non-orthogonal Frequency Shift Keying for Optical Wireless Link Based on Visible Light Emitting Diode,” *ICAPM*, 2017.'
-  date: 2017
-  image: '/static/assets/img/pub/blank.jpg'
-  pmid: TBD
-
-- citation: '**Heeryon Cho** and **Sang Min Yoon**, “Improving sentiment classification through distinct word selection,” IEEE HSI, 2017. (BEST PAPER AWARD)'
-  date: 2017
-  image: '/static/assets/img/pub/blank.jpg'
-  pmid: TBD
-
-- citation: '**Song-Mi Lee**, **Heeryon Cho**, and **Sang Min Yoon**, “Statistical noise reduction for robust human activity recognition,” IEEE MFI, 2017.'
   date: 2017
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
