@@ -60,7 +60,7 @@
 #      url: 'https://twitter.com/fraser_lab/status/956318642454474752'
 
 
-- citation: '**Jinjoo Song**, Gangjoon Yoon, and **Sang Min Yoon** , "\Monolithic Image Decomposition,"\ *Neurocomputing*, 2019.'
+- citation: '**Jinjoo Song**, Gangjoon Yoon, and **Sang Min Yoon**, “Monolithic Image Decomposition," *Neurocomputing*, 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
@@ -69,7 +69,7 @@
     - name: Source code
       url: https://github.com/decpearl/MonoID
       
-- citation: '**Jinjoo Song**, Gangjoon Yoon, Kwangsoo Hahn, and **Sang Min Yoon** , Subspace Clustering via Structure-enforced Dictionary Learning, *Neurocomputing*, 2019.'
+- citation: '**Jinjoo Song**, Gangjoon Yoon, Kwangsoo Hahn, and **Sang Min Yoon**, “Subspace Clustering via Structure-enforced Dictionary Learning," *Neurocomputing*, 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
@@ -78,7 +78,7 @@
     - name: Source code
       url: https://github.com/decpearl/SSPCA_SC
  
-- citation: '**Jungwoo Choi**, **Heeryon Cho**, **Jinjoo Song**, and **Sang Min Yoon**, SketchHelper: Real-time Stroke Guidance for Freehand Sketch Retrieval. *IEEE Transactions on Multimedia*. August 2019.'
+- citation: '**Jungwoo Choi**, **Heeryon Cho**, **Jinjoo Song**, and **Sang Min Yoon**, “SketchHelper: Real-time Stroke Guidance for Freehand Sketch Retrieval," *IEEE Transactions on Multimedia*. August 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pdf: 'https://ieeexplore.ieee.org/document/8607060'
@@ -87,25 +87,25 @@
     - name: Source code
       url: https://github.com/kookmin-hci/sketch_helper
       
-- citation: 'Daewoong Cheong, **Sang Min Yoon**, Gangjoon Yoon, Dongsun Seo, Yong-Yuk Won, Wireless Light Fidelity Channel Capacity Improvement Using Sparse Sampled Non-Orthogonal Frequency Shift Keying, *IEEE Access*, July 2019'.
+- citation: 'Daewoong Cheong, **Sang Min Yoon**, Gangjoon Yoon, Dongsun Seo, Yong-Yuk Won, “Wireless Light Fidelity Channel Capacity Improvement Using Sparse Sampled Non-Orthogonal Frequency Shift Keying," *IEEE Access*, July 2019'.
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
   pdf: 'https://ieeexplore.ieee.org/document/8760469'
 
-- citation: 'Yong-Yuk Won, **Sang Min Yoon**, Dongsun Seo , Reduction of amplified spontaneous emission noise using a statistical signal adaptive filter,*Optical and Quantum Electronics*. April 2019'
+- citation: 'Yong-Yuk Won, **Sang Min Yoon**, and Dongsun Seo, “Reduction of amplified spontaneous emission noise using a statistical signal adaptive filter," *Optical and Quantum Electronics*. April 2019'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
   pdf: 'https://link.springer.com/article/10.1007/s11082-019-1844-6'
   
-- citation: 'Sang Gook Kim, **Sang Min Yoon**, Maria Yang, **Jungwoo Choi**, Haluk Akay, Edward Burnell, AI for design: Virtual design assistant,*CIRP Annals Online*. April 2019'
+- citation: 'Sang Gook Kim, **Sang Min Yoon**, Maria Yang, **Jungwoo Choi**, Haluk Akay, and Edward Burnell, “AI for design: Virtual design assistant," *CIRP Annals Online*. April 2019'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
   pdf: 'https://doi.org/10.1016/j.cirp.2019.03.024'
   
-- citation: '**Heeryon Cho** and **Sang Min Yoon**, Applying Singular Value Decomposition on Accelerometer Data for 1D Convolutional Neural Network Based Fall Detection, *Electronics Letters*, March 2019.'
+- citation: '**Heeryon Cho** and **Sang Min Yoon**, “Applying Singular Value Decomposition on Accelerometer Data for 1D Convolutional Neural Network Based Fall Detection," *Electronics Letters*, March 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
@@ -114,52 +114,52 @@
     - name: Source code
       url: https://github.com/heeryoncho/SVD_applied_fall_detection 
   
-- citation: 'Hyeong Jae Hwang, Gangjoon Yoon and **Sang Min Yoon**, Optimized Clustering Scheme-Based Robust Vanishing Point Detection. *IEEE Transactions on Intelligent Transportation Systems*. 2019.'
+- citation: 'Hyeong Jae Hwang, Gangjoon Yoon, and **Sang Min Yoon**, “Optimized Clustering Scheme-Based Robust Vanishing Point Detection," *IEEE Transactions on Intelligent Transportation Systems*. 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
   
-- citation: 'Gangjoon Yoon, **Hyeyeon Cho**, Yong-Yuk Won and **Sang Min Yoon**, Three-Dimensional Density Estimation of Flame Captured From Multiple Cameras. *IEEE Access*. 2019.'
+- citation: 'Gangjoon Yoon, **Hyeyeon Cho**, Yong-Yuk Won, and **Sang Min Yoon**, “Three-Dimensional Density Estimation of Flame Captured From Multiple Cameras," *IEEE Access*. 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
   
-- citation: '**최정우**, **윤상민**, 박제성, 한광수, 단안 카메라 기반 실시간 3차원 사람 자세 인식을 통한 미디어 아트 기술. *제31회 영상처리 및 이해에 관한 워크샵(IPIU)*. 2019.'
+- citation: '**최정우**, **윤상민**, 박제성, 한광수, “단안 카메라 기반 실시간 3차원 사람 자세 인식을 통한 미디어 아트 기술", *제31회 영상처리 및 이해에 관한 워크샵(IPIU)*. 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: 'Gangjoon Yoon, Hyeong Jae Hwang, and **Sang Min Yoon**, Visual Object Tracking Using Structured Sparse PCA-Based Appearance Representation and Online Learning. *Sensors*. 2018.'
+- citation: 'Gangjoon Yoon, Hyeong Jae Hwang, and **Sang Min Yoon**, “Visual Object Tracking Using Structured Sparse PCA-Based Appearance Representation and Online Learning," *Sensors*. 2018.'
   date: 2018
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: '**Jinjoo Song**, Gangjoon Yoon, **Heeryon Cho**, and **Sang Min Yoon**, Structure preserving dimensionality reduction for visual object recognition. *Multimedia Tools and Applications*. September 2018.'
+- citation: '**Jinjoo Song**, Gangjoon Yoon, **Heeryon Cho**, and **Sang Min Yoon**, “Structure preserving dimensionality reduction for visual object recognition," *Multimedia Tools and Applications*. September 2018.'
   date: 2018
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: '**Jinjoo Song**, **Heeryon Cho**, Jungho Yoon, and **Sang Min Yoon**, Structure adaptive total variation minimization-based image decomposition. *IEEE Transactions on Circuits and Systems for Video Technology*. September 2018.'
+- citation: '**Jinjoo Song**, **Heeryon Cho**, Jungho Yoon, and **Sang Min Yoon**, “Structure adaptive total variation minimization-based image decomposition," *IEEE Transactions on Circuits and Systems for Video Technology*. September 2018.'
   date: 2018
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: '**Heeryon Cho** and **Sang Min Yoon**, Divide and conquer-based 1d CNN human activity recognition using test data sharpening. *Sensors*. 2018.'
+- citation: '**Heeryon Cho** and **Sang Min Yoon**, “Divide and conquer-based 1d CNN human activity recognition using test data sharpening," *Sensors*. 2018.'
   date: 2018
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: 'Yong-Yuk Won, Dongsun Seo, and **Sang Min Yoon**, Optical access transmission with improved channel capacity using non-orthogonal frequency quadrature amplitude modulation. *Optical Quantum Electronics*. 2017.'
+- citation: 'Yong-Yuk Won, Dongsun Seo, and **Sang Min Yoon**, “Optical access transmission with improved channel capacity using non-orthogonal frequency quadrature amplitude modulation," *Optical Quantum Electronics*. 2017.'
   date: 2017
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: 'Yong-Yuk Won, **Sang Min Yoon**, and Dongsun Seo, Bandwidth efficiency improvement of optical wireless link based on yellow photsphor coated light emitting diode using non-orthogonal frequency shift keying. *Microwave*. 2017.'
+- citation: 'Yong-Yuk Won, **Sang Min Yoon**, and Dongsun Seo, “Bandwidth efficiency improvement of optical wireless link based on yellow photsphor coated light emitting diode using non-orthogonal frequency shift keying," *Microwave*. 2017.'
   date: 2017
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: 'H. Wang, **S. M. Yoon**, D.K. Han, and H., Ko, “A feature descriptor based on the local patch clustering distribution for illumination-robust image matching”, Pattern Recognition Letters, 2017.'
+- citation: 'H. Wang, **S. M. Yoon**, D.K. Han, and H., Ko, “A feature descriptor based on the local patch clustering distribution for illumination-robust image matching,” Pattern Recognition Letters, 2017.'
   date: 2017
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
@@ -214,12 +214,12 @@
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: '**Sang Min Yoon**, “Visibility enhancement of fog-degraded image using adaptive total variation minimization”, Journal of Imaging Science, 2016.'
+- citation: '**Sang Min Yoon**, “Visibility enhancement of fog-degraded image using adaptive total variation minimization,” Journal of Imaging Science, 2016.'
   date: 2016
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: 'Yong-Yuk Won, D. Seo, and **S. M. Yoon**, “White light-emitting diode based wireless orthogonal frequency division multiplexing link with improved transmission capacity using Bayesian compressive sensing”, Optical Engineering, 2016.'
+- citation: 'Yong-Yuk Won, D. Seo, and **S. M. Yoon**, “White light-emitting diode based wireless orthogonal frequency division multiplexing link with improved transmission capacity using Bayesian compressive sensing,” Optical Engineering, 2016.'
   date: 2016
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
@@ -229,12 +229,12 @@
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: 'H. Wang, **S. M. Yoon**, D.K. Han, and H., Ko, “A feature descriptor based on the local patch clustering distribution for illumination-robust image matching”, Pattern Recognition Letters, 2017.'
+- citation: 'H. Wang, **S. M. Yoon**, D.K. Han, and H., Ko, “A feature descriptor based on the local patch clustering distribution for illumination-robust image matching,” Pattern Recognition Letters, 2017.'
   date: 2016
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: 'G.-J. Yoon and **S. M. Yoon**, “Sketch-based 3D object recognition from locally optimized sparse features”, Neurocomputing, 2017.'
+- citation: 'G.-J. Yoon and **S. M. Yoon**, “Sketch-based 3D object recognition from locally optimized sparse features,” Neurocomputing, 2017.'
   date: 2016
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
@@ -249,27 +249,27 @@
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: 'Yong-Yuk Won and **S. M. Yoon**, “Improvement of transmission capacity in optical orthogonal frequency division multiplexed access link using an adaptive sampling and L1 minimization”, 2015.'
+- citation: 'Yong-Yuk Won and **S. M. Yoon**, “Improvement of transmission capacity in optical orthogonal frequency division multiplexed access link using an adaptive sampling and L1 minimization," 2015.'
   date: 2015
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: 'J.-H. Han and **S. M. Yoon**, “Decoupling structural artifacts in fiber optic imaging by applying compressive sensing, Optic, 2015.'
+- citation: 'J.-H. Han and **S. M. Yoon**, “Decoupling structural artifacts in fiber optic imaging by applying compressive sensing," Optic, 2015.'
   date: 2015
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**H.-J. Hwang** and **S. M. Yoon**, “Single image-based 3D scene estimation from semantic prior”, Electronics letters, 2015.'
+- citation: '**H.-J. Hwang** and **S. M. Yoon**, “Single image-based 3D scene estimation from semantic prior,” Electronics letters, 2015.'
   date: 2015
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**S. M. Yoon** and J. Yoon, “Depth map enhancement using adaptive moving least squares method with a total variation minimization”, Multimedia Tools and Applications, 2015.'
+- citation: '**S. M. Yoon** and J. Yoon, “Depth map enhancement using adaptive moving least squares method with a total variation minimization,” Multimedia Tools and Applications, 2015.'
   date: 2015
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**S. M. Yoon**, “Visibility enhancement of fog-degraded image using adaptive total variation minimization”, 2015.'
+- citation: '**S. M. Yoon**, “Visibility enhancement of fog-degraded image using adaptive total variation minimization,” 2015.'
   date: 2015
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
@@ -289,22 +289,22 @@
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: 'Yong-Yuk Won and **S. M. Yoon**, “Compressive sensing-based channel bandwidth improvement in optical wireless orthogonal frequency division multiplexing link using visible light emitting diode”, Optics Express, 2014.'
+- citation: 'Yong-Yuk Won and **S. M. Yoon**, “Compressive sensing-based channel bandwidth improvement in optical wireless orthogonal frequency division multiplexing link using visible light emitting diode,” Optics Express, 2014.'
   date: 2014
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**S. M. Yoon**, H. Graf, and A. Kuijper, “Hierarchical Image Representation using 3D Camera Geometry for Content-Based Image Retrieval”, Journal of Engineering Applications of Artificial Intelligence, 2014.'
+- citation: '**S. M. Yoon**, H. Graf, and A. Kuijper, “Hierarchical Image Representation using 3D Camera Geometry for Content-Based Image Retrieval,” Journal of Engineering Applications of Artificial Intelligence, 2014.'
   date: 2014
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**S. M. Yoon**, Y.J. Lee, G.-J. Yoon, and J. Yoon, “Adaptive Total Variation Minimization-based image enhancement from flash and no-flash pairs, The Scientific World Journal, 2014.'
+- citation: '**S. M. Yoon**, Y.J. Lee, G.-J. Yoon, and J. Yoon, “Adaptive Total Variation Minimization-based image enhancement from flash and no-flash pairs," The Scientific World Journal, 2014.'
   date: 2014
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**S. M. Yoon**, G.-J. Yoon, and T. Schreck, “User-drawn sketch-based 3D object retrieval using sparse coding”, Multimedia Tools and Applications, 2014.'
+- citation: '**S. M. Yoon**, G.-J. Yoon, and T. Schreck, “User-drawn sketch-based 3D object retrieval using sparse coding,” Multimedia Tools and Applications, 2014.'
   date: 2014
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
@@ -319,17 +319,17 @@
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**S. M. Yoon** and A. Kuijper, “Human action recognition based on skeleton splitting”, Elsevier Expert Systems with Applications, 2013.'
+- citation: '**S. M. Yoon** and A. Kuijper, “Human action recognition based on skeleton splitting,” Elsevier Expert Systems with Applications, 2013.'
   date: 2013
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: 'H, Kakara, Y. Nishida, **S. M. Yoon**, Y. Miyazaki, Y. Koizumi, H. Mizoguchi, and T. Yamanaka, “Development of childhood fall motion database and browser based on behavior measurements”, Elsevier Accident Analysis and Prevention, 2013.'
+- citation: 'H, Kakara, Y. Nishida, **S. M. Yoon**, Y. Miyazaki, Y. Koizumi, H. Mizoguchi, and T. Yamanaka, “Development of childhood fall motion database and browser based on behavior measurements,” Elsevier Accident Analysis and Prevention, 2013.'
   date: 2013
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**S. M. Yoon**, “ Three-dimensional volume data segmentation using diffusion tensor-based superquadric analysis”, SPIE Journal of Electronic Imaging, 2013.'
+- citation: '**S. M. Yoon**, “ Three-dimensional volume data segmentation using diffusion tensor-based superquadric analysis,” SPIE Journal of Electronic Imaging, 2013.'
   date: 2013
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
@@ -374,102 +374,102 @@
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**Sang Min Yoon** and Gang-Joon Yoon, “Compressive Matting” accepted in 8th International Symposium on Visual Computing, 2012.'
+- citation: '**Sang Min Yoon** and Gang-Joon Yoon, “Compressive Matting” accepted in 8th International Symposium on Visual Computing," 2012.'
   date: 2012
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: 'Hiroyouki Kakara, Yoshifumi Nishida, **Sang Min Yoon**, Yosuke Miyazaki, Horishi Mizoguchi, and Tatsuhiro Yamanaka, “Development of Database on Daily Living Activities for Realistic Biomechanical Simulation” Accepted in AHFE, 2012.'
+- citation: 'Hiroyouki Kakara, Yoshifumi Nishida, **Sang Min Yoon**, Yosuke Miyazaki, Horishi Mizoguchi, and Tatsuhiro Yamanaka, “Development of Database on Daily Living Activities for Realistic Biomechanical Simulation,” Accepted in AHFE, 2012.'
   date: 2012
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: 'Tobias Schreck, **Sang Min Yoon**, and Arjan Kuijper, “Graph-based combination of fragment descriptors for improved 3D object retrieval” published in ACM Multimedia System, 2012.'
+- citation: 'Tobias Schreck, **Sang Min Yoon**, and Arjan Kuijper, “Graph-based combination of fragment descriptors for improved 3D object retrieval,” published in ACM Multimedia System, 2012.'
   date: 2012
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: 'Jae-Ho Han and **Sang Min Yoon**, “Dichloromethane Detection Based on Near Infrared Absorptive Sensing,”Online first publication in IEEE Journal of Selected Topics in Quantum Electronics, 2011.'
+- citation: 'Jae-Ho Han and **Sang Min Yoon**, “Dichloromethane Detection Based on Near Infrared Absorptive Sensing,” Online first publication in IEEE Journal of Selected Topics in Quantum Electronics, 2011.'
   date: 2011
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**Sang Min Yoon** and Arjan Kuijper, “Sketch-based 3D model retrieval using compressive sensing classification,”published in IET Electronics Letters, 47(21),1181-1183, 2011.'
+- citation: '**Sang Min Yoon** and Arjan Kuijper, “Sketch-based 3D model retrieval using compressive sensing classification,” published in IET Electronics Letters, 47(21),1181-1183, 2011.'
   date: 2011
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: 'Jae-Ho Han and **Sang Min Yoon**, “Depixelation of coherent fiber bundle endoscopy based on learning patterns of image prior,”published in Optics Letter, 36, 3212-3214, 2011.'
+- citation: 'Jae-Ho Han and **Sang Min Yoon**, “Depixelation of coherent fiber bundle endoscopy based on learning patterns of image prior,” published in Optics Letter, 36, 3212-3214, 2011.'
   date: 2011
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: 'Jae-Ho Han and **Sang Min Yoon**, “Integrated Near Infrared Dual-Modality Imaging with Common Path Fiber Optic System,”published in IEEE trans. on Instrument and Measurement, 2011.'
+- citation: 'Jae-Ho Han and **Sang Min Yoon**, “Integrated Near Infrared Dual-Modality Imaging with Common Path Fiber Optic System,” published in IEEE trans. on Instrument and Measurement, 2011.'
   date: 2011
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**Sang Min Yoon** and Arjan Kuijper, “3D model retrieval using the histogram of orientation of suggestive contours” 7th International Symposium on Visual Computing, 2011.'
+- citation: '**Sang Min Yoon** and Arjan Kuijper, “3D model retrieval using the histogram of orientation of suggestive contours,” 7th International Symposium on Visual Computing, 2011.'
   date: 2011
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**Sang Min Yoon** and Arjan Kuijper, “View based 3D model retrieval using compressive sensing” IEEE International Symposium on Image and Signal Processing and Analysis, 2011.'
+- citation: '**Sang Min Yoon** and Arjan Kuijper, “View based 3D model retrieval using compressive sensing,” IEEE International Symposium on Image and Signal Processing and Analysis, 2011.'
   date: 2011
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**Sang Min Yoon** “Real-Time 3D reconstruction via 3D object tracking,”Korea Journal of Multimedia, 2010, (Korean Language).'
+- citation: '**Sang Min Yoon** “Real-Time 3D reconstruction via 3D object tracking,” Korea Journal of Multimedia, 2010, (Korean Language).'
   date: 2010
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**Sang Min Yoon**, Maximilian Scherer, Tobias Schreck, and Arjan Kuijper, “Sketc-based 3D model retrieval using diffusion tensor fields of suggestive contours” ACM Multimedia, 2010.'
+- citation: '**Sang Min Yoon**, Maximilian Scherer, Tobias Schreck, and Arjan Kuijper, “Sketc-based 3D model retrieval using diffusion tensor fields of suggestive contours,” ACM Multimedia, 2010.'
   date: 2010
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: 'Holger Graf, **Sang Min Yoon**, and Cornelius Malerczyk, “Real-time 3D reconstruction and pose estimation for human motion analysis” IEEE ICIP, 2010.'
+- citation: 'Holger Graf, **Sang Min Yoon**, and Cornelius Malerczyk, “Real-time 3D reconstruction and pose estimation for human motion analysis,” IEEE ICIP, 2010.'
   date: 2010
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**Sang Min Yoon** and Arjan Kuijper, “Human Action Recognition using Segmented Skeletal Features” International Conference on Pattern Recognition (ICPR), 2010.'
+- citation: '**Sang Min Yoon** and Arjan Kuijper, “Human Action Recognition using Segmented Skeletal Features,” International Conference on Pattern Recognition (ICPR), 2010.'
   date: 2010
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**Sang Min Yoon** and Arjan Kuijper, “Query-by-sketch based image retrieval using diffusion tensor fields” IEEE IPTA, 2010.'
+- citation: '**Sang Min Yoon** and Arjan Kuijper, “Query-by-sketch based image retrieval using diffusion tensor fields,” IEEE IPTA, 2010.'
   date: 2010
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**Sang Min Yoon** and Arjan Kuijper, “3D Human Action Recognition using Model Segmentation” International Conference on Image Analysis and Recognition (LNCS), 2010.'
+- citation: '**Sang Min Yoon** and Arjan Kuijper, “3D Human Action Recognition using Model Segmentation,” International Conference on Image Analysis and Recognition (LNCS), 2010.'
   date: 2010
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**Sang Min Yoon** and Arjan Kuijper, “Object Retrieval based on User-Drawn Sketches” International Conference on Computer Graphics Theory and Applications(VISAPP), 2010.'
+- citation: '**Sang Min Yoon** and Arjan Kuijper, “Object Retrieval based on User-Drawn Sketches,” International Conference on Computer Graphics Theory and Applications(VISAPP), 2010.'
   date: 2010
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**Sang Min Yoon** and Arjan Kuijper, “3D Volume Data Segmentation from Superquadric Tensor Analysis” International Conference on Computer Graphics Theory and Applications(GRAPP), 2010.'
+- citation: '**Sang Min Yoon** and Arjan Kuijper, “3D Volume Data Segmentation from Superquadric Tensor Analysis,” International Conference on Computer Graphics Theory and Applications(GRAPP), 2010.'
   date: 2010
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**Sang Min Yoon**, Cornelius Malerczyk, and Holger Graf, “Skill Measurement Through Real-Time 3D reconstruction and 3D Pose Estimatation”International Conference on Multimodal Interfaces for Skill Transfer, 2009.'
+- citation: '**Sang Min Yoon**, Cornelius Malerczyk, and Holger Graf, “Skill Measurement Through Real-Time 3D reconstruction and 3D Pose Estimatation,” International Conference on Multimodal Interfaces for Skill Transfer, 2009.'
   date: 2009
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**Sang Min Yoon** and Holger Graf, “Automatic Skeleton Extraction and Splitting of Target Objects”IEEE ICIP, 2009.'
+- citation: '**Sang Min Yoon** and Holger Graf, “Automatic Skeleton Extraction and Splitting of Target Objects,” IEEE ICIP, 2009.'
   date: 2009
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**Sang Min Yoon**, Cornelius Malerczyk, and Holger Graf, “3D Skeleton extraction from volume data based on normalized gradient vector flow,”WSCG 2009.'
+- citation: '**Sang Min Yoon**, Cornelius Malerczyk, and Holger Graf, “3D Skeleton extraction from volume data based on normalized gradient vector flow,” WSCG 2009.'
   date: 2009
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
@@ -499,7 +499,7 @@
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: 'Sang Hwan Lee, **Sang Min Yoon**, and Ji Hoon Jeong, “A novel face and hands tracking in a complex background,”5th WSEAS International Conference on Computational Intelligence, Man-Machine Systems and Cybernetics, 2006.'
+- citation: 'Sang Hwan Lee, **Sang Min Yoon**, and Ji Hoon Jeong, “A novel face and hands tracking in a complex background,” 5th WSEAS International Conference on Computational Intelligence, Man-Machine Systems and Cybernetics, 2006.'
   date: 2006
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
