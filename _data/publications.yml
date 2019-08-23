@@ -60,7 +60,7 @@
 #      url: 'https://twitter.com/fraser_lab/status/956318642454474752'
 
 
-- citation: '**Jinjoo Song**, Gangjoon Yoon, and **Sang Min Yoon** , Monolithic Image Decomposition, *Neurocomputing*, 2019.'
+- citation: '**Jinjoo Song**, Gangjoon Yoon, and **Sang Min Yoon** , "Monolithic Image Decomposition," *Neurocomputing*, 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
@@ -78,7 +78,7 @@
     - name: Source code
       url: https://github.com/decpearl/SSPCA_SC
  
-- citation: '**Jungwoo. Choi**, **Heeryon Cho**, **Jinjoo Song**, and **Sang Min Yoon**, SketchHelper: Real-time Stroke Guidance for Freehand Sketch Retrieval. *IEEE Transactions on Multimedia*. August 2019.'
+- citation: '**Jungwoo Choi**, **Heeryon Cho**, **Jinjoo Song**, and **Sang Min Yoon**, SketchHelper: Real-time Stroke Guidance for Freehand Sketch Retrieval. *IEEE Transactions on Multimedia*. August 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pdf: 'https://ieeexplore.ieee.org/document/8607060'
@@ -87,19 +87,19 @@
     - name: Source code
       url: https://github.com/kookmin-hci/sketch_helper
       
-- citation: 'Daewoong Cheong, **Sang Min Yoon**, Gangjoon Yoon, Dongsun Seo, Yong-Yuk Won, Wireless Light Fidelity Channel Capacity Improvement Using Sparse Sampled Non-Orthogonal Frequency Shift Keying, *IEEE Access*, July 2019'
+- citation: 'Daewoong Cheong, **Sang Min Yoon**, Gangjoon Yoon, Dongsun Seo, Yong-Yuk Won, Wireless Light Fidelity Channel Capacity Improvement Using Sparse Sampled Non-Orthogonal Frequency Shift Keying, *IEEE Access*, July 2019'.
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
   pdf: 'https://ieeexplore.ieee.org/document/8760469'
 
-- citation: 'Yong Yuk Won, **Sang Min Yoon**, Dongsun Seo , Reduction of amplified spontaneous emission noise using a statistical signal adaptive filter,*Optical and Quantum Electronics*. April 2019'
+- citation: 'Yong-Yuk Won, **Sang Min Yoon**, Dongsun Seo , Reduction of amplified spontaneous emission noise using a statistical signal adaptive filter,*Optical and Quantum Electronics*. April 2019'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
   pdf: 'https://link.springer.com/article/10.1007/s11082-019-1844-6'
   
-- citation: 'Sang Gook Kim, **Sang Min Yoon**, Maria Yang, **Jung Woo Choi**, Haluk Akay, Edward Burnell, AI for design: Virtual design assistant,*CIRP Annals Online*. April 2019'
+- citation: 'Sang Gook Kim, **Sang Min Yoon**, Maria Yang, **Jungwoo Choi**, Haluk Akay, Edward Burnell, AI for design: Virtual design assistant,*CIRP Annals Online*. April 2019'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
@@ -134,12 +134,12 @@
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: '**Jinjoo Song**, Gangjoon Yoon, **Heeryon Cho**, and **Sang Min Yoon**, Structure preserving dimensionality reduction for visual object recognition. *Multimedia Tools and Applications*. 2018.'
+- citation: '**Jinjoo Song**, Gangjoon Yoon, **Heeryon Cho**, and **Sang Min Yoon**, Structure preserving dimensionality reduction for visual object recognition. *Multimedia Tools and Applications*. September 2018.'
   date: 2018
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: '**Jinjoo Song**, **Heeryon Cho**, Jungho Yoon, and **Sang Min Yoon**, Structure adaptive total variation minimization-based image decomposition. *IEEE Transactions on Circuits and Systems for Video Technology*. 2018.'
+- citation: '**Jinjoo Song**, **Heeryon Cho**, Jungho Yoon, and **Sang Min Yoon**, Structure adaptive total variation minimization-based image decomposition. *IEEE Transactions on Circuits and Systems for Video Technology*. September 2018.'
   date: 2018
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
