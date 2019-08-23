@@ -60,7 +60,7 @@
 #      url: 'https://twitter.com/fraser_lab/status/956318642454474752'
 
 
-- citation: '**Jinjoo Song**, Gangjoon Yoon, and **Sang Min Yoon**, “Monolithic Image Decomposition," *Neurocomputing*, 2019.'
+- citation: '**Jinjoo Song**, Gangjoon Yoon, and **Sang Min Yoon**, “Monolithic Image Decomposition,” *Neurocomputing*, 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
@@ -69,7 +69,7 @@
     - name: Source code
       url: https://github.com/decpearl/MonoID
       
-- citation: '**Jinjoo Song**, Gangjoon Yoon, Kwangsoo Hahn, and **Sang Min Yoon**, “Subspace Clustering via Structure-enforced Dictionary Learning," *Neurocomputing*, 2019.'
+- citation: '**Jinjoo Song**, Gangjoon Yoon, Kwangsoo Hahn, and **Sang Min Yoon**, “Subspace Clustering via Structure-enforced Dictionary Learning,” *Neurocomputing*, 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
@@ -78,7 +78,7 @@
     - name: Source code
       url: https://github.com/decpearl/SSPCA_SC
  
-- citation: '**Jungwoo Choi**, **Heeryon Cho**, **Jinjoo Song**, and **Sang Min Yoon**, “SketchHelper: Real-time Stroke Guidance for Freehand Sketch Retrieval," *IEEE Transactions on Multimedia*. August 2019.'
+- citation: '**Jungwoo Choi**, **Heeryon Cho**, **Jinjoo Song**, and **Sang Min Yoon**, “SketchHelper: Real-time Stroke Guidance for Freehand Sketch Retrieval,” *IEEE Transactions on Multimedia*. August 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pdf: 'https://ieeexplore.ieee.org/document/8607060'
@@ -87,25 +87,25 @@
     - name: Source code
       url: https://github.com/kookmin-hci/sketch_helper
       
-- citation: 'Daewoong Cheong, **Sang Min Yoon**, Gangjoon Yoon, Dongsun Seo, Yong-Yuk Won, “Wireless Light Fidelity Channel Capacity Improvement Using Sparse Sampled Non-Orthogonal Frequency Shift Keying," *IEEE Access*, July 2019'.
+- citation: 'Daewoong Cheong, **Sang Min Yoon**, Gangjoon Yoon, Dongsun Seo, Yong-Yuk Won, “Wireless Light Fidelity Channel Capacity Improvement Using Sparse Sampled Non-Orthogonal Frequency Shift Keying,” *IEEE Access*, July 2019'.
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
   pdf: 'https://ieeexplore.ieee.org/document/8760469'
 
-- citation: 'Yong-Yuk Won, **Sang Min Yoon**, and Dongsun Seo, “Reduction of amplified spontaneous emission noise using a statistical signal adaptive filter," *Optical and Quantum Electronics*. April 2019'
+- citation: 'Yong-Yuk Won, **Sang Min Yoon**, and Dongsun Seo, “Reduction of amplified spontaneous emission noise using a statistical signal adaptive filter,” *Optical and Quantum Electronics*. April 2019'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
   pdf: 'https://link.springer.com/article/10.1007/s11082-019-1844-6'
   
-- citation: 'Sang Gook Kim, **Sang Min Yoon**, Maria Yang, **Jungwoo Choi**, Haluk Akay, and Edward Burnell, “AI for design: Virtual design assistant," *CIRP Annals Online*. April 2019'
+- citation: 'Sang Gook Kim, **Sang Min Yoon**, Maria Yang, **Jungwoo Choi**, Haluk Akay, and Edward Burnell, “AI for design: Virtual design assistant,” *CIRP Annals Online*. April 2019'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
   pdf: 'https://doi.org/10.1016/j.cirp.2019.03.024'
   
-- citation: '**Heeryon Cho** and **Sang Min Yoon**, “Applying Singular Value Decomposition on Accelerometer Data for 1D Convolutional Neural Network Based Fall Detection," *Electronics Letters*, March 2019.'
+- citation: '**Heeryon Cho** and **Sang Min Yoon**, “Applying Singular Value Decomposition on Accelerometer Data for 1D Convolutional Neural Network Based Fall Detection,” *Electronics Letters*, March 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
@@ -114,47 +114,47 @@
     - name: Source code
       url: https://github.com/heeryoncho/SVD_applied_fall_detection 
   
-- citation: 'Hyeong Jae Hwang, Gangjoon Yoon, and **Sang Min Yoon**, “Optimized Clustering Scheme-Based Robust Vanishing Point Detection," *IEEE Transactions on Intelligent Transportation Systems*. 2019.'
+- citation: 'Hyeong Jae Hwang, Gangjoon Yoon, and **Sang Min Yoon**, “Optimized Clustering Scheme-Based Robust Vanishing Point Detection,” *IEEE Transactions on Intelligent Transportation Systems*. 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
   
-- citation: 'Gangjoon Yoon, **Hyeyeon Cho**, Yong-Yuk Won, and **Sang Min Yoon**, “Three-Dimensional Density Estimation of Flame Captured From Multiple Cameras," *IEEE Access*. 2019.'
+- citation: 'Gangjoon Yoon, **Hyeyeon Cho**, Yong-Yuk Won, and **Sang Min Yoon**, “Three-Dimensional Density Estimation of Flame Captured From Multiple Cameras,” *IEEE Access*. 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
   
-- citation: '**최정우**, **윤상민**, 박제성, 한광수, “단안 카메라 기반 실시간 3차원 사람 자세 인식을 통한 미디어 아트 기술", *제31회 영상처리 및 이해에 관한 워크샵(IPIU)*. 2019.'
+- citation: '**최정우**, **윤상민**, 박제성, 한광수, “단안 카메라 기반 실시간 3차원 사람 자세 인식을 통한 미디어 아트 기술”, *제31회 영상처리 및 이해에 관한 워크샵(IPIU)*. 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: 'Gangjoon Yoon, Hyeong Jae Hwang, and **Sang Min Yoon**, “Visual Object Tracking Using Structured Sparse PCA-Based Appearance Representation and Online Learning," *Sensors*. 2018.'
+- citation: 'Gangjoon Yoon, Hyeong Jae Hwang, and **Sang Min Yoon**, “Visual Object Tracking Using Structured Sparse PCA-Based Appearance Representation and Online Learning,” *Sensors*. 2018.'
   date: 2018
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: '**Jinjoo Song**, Gangjoon Yoon, **Heeryon Cho**, and **Sang Min Yoon**, “Structure preserving dimensionality reduction for visual object recognition," *Multimedia Tools and Applications*. September 2018.'
+- citation: '**Jinjoo Song**, Gangjoon Yoon, **Heeryon Cho**, and **Sang Min Yoon**, “Structure preserving dimensionality reduction for visual object recognition,” *Multimedia Tools and Applications*. September 2018.'
   date: 2018
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: '**Jinjoo Song**, **Heeryon Cho**, Jungho Yoon, and **Sang Min Yoon**, “Structure adaptive total variation minimization-based image decomposition," *IEEE Transactions on Circuits and Systems for Video Technology*. September 2018.'
+- citation: '**Jinjoo Song**, **Heeryon Cho**, Jungho Yoon, and **Sang Min Yoon**, “Structure adaptive total variation minimization-based image decomposition,” *IEEE Transactions on Circuits and Systems for Video Technology*. September 2018.'
   date: 2018
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: '**Heeryon Cho** and **Sang Min Yoon**, “Divide and conquer-based 1d CNN human activity recognition using test data sharpening," *Sensors*. 2018.'
+- citation: '**Heeryon Cho** and **Sang Min Yoon**, “Divide and conquer-based 1d CNN human activity recognition using test data sharpening,” *Sensors*. 2018.'
   date: 2018
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: 'Yong-Yuk Won, Dongsun Seo, and **Sang Min Yoon**, “Optical access transmission with improved channel capacity using non-orthogonal frequency quadrature amplitude modulation," *Optical Quantum Electronics*. 2017.'
+- citation: 'Yong-Yuk Won, Dongsun Seo, and **Sang Min Yoon**, “Optical access transmission with improved channel capacity using non-orthogonal frequency quadrature amplitude modulation,” *Optical Quantum Electronics*. 2017.'
   date: 2017
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: 'Yong-Yuk Won, **Sang Min Yoon**, and Dongsun Seo, “Bandwidth efficiency improvement of optical wireless link based on yellow photsphor coated light emitting diode using non-orthogonal frequency shift keying," *Microwave*. 2017.'
+- citation: 'Yong-Yuk Won, **Sang Min Yoon**, and Dongsun Seo, “Bandwidth efficiency improvement of optical wireless link based on yellow photsphor coated light emitting diode using non-orthogonal frequency shift keying,” *Microwave*. 2017.'
   date: 2017
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
@@ -164,7 +164,7 @@
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: 'Gangjoon Yoon and **Sang Min Yoon**, “Sketch-based 3D object recognition from locally optimized sparse features”, Neurocomputing, 2017.'
+- citation: 'Gangjoon Yoon and **Sang Min Yoon**, “Sketch-based 3D object recognition from locally optimized sparse features,” Neurocomputing, 2017.'
   date: 2017
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
