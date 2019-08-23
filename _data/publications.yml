@@ -148,28 +148,28 @@
   date: 2018
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
-
-- citation: 'Yong-Yuk Won, Dongsun Seo, and **Sang Min Yoon**, “Optical access transmission with improved channel capacity using non-orthogonal frequency quadrature amplitude modulation,” *Optical Quantum Electronics*. 2017.'
+  
+- citation: 'Gangjoon Yoon and **Sang Min Yoon**, “Sketch-based 3D Object Recognition from Locally Optimized Sparse Features,” *Neurocomputing*, December 2017.'
+  date: 2017
+  image: '/static/assets/img/pub/blank.jpg'
+  pmid: TBD
+  
+- citation: 'Han Wang, **Sang Min Yoon**, David K. Han, and Hanseok Ko, “A Feature Descriptor Based on the Local Patch Clustering Distribution for Illumination-robust Image Matching,” *Pattern Recognition Letters*, July 2017.'
   date: 2017
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: 'Yong-Yuk Won, **Sang Min Yoon**, and Dongsun Seo, “Bandwidth efficiency improvement of optical wireless link based on yellow photsphor coated light emitting diode using non-orthogonal frequency shift keying,” *Microwave*. 2017.'
+- citation: 'Yong-Yuk Won, **Sang Min Yoon**, and Dongsun Seo, “Bandwidth Efficiency Improvement of Optical Eireless Link Based on Yellow Photsphor Coated Light Emitting Diode Using Non-orthogonal Frequency Shift Keying,” *Microwave*, March 2017.'
+  date: 2017
+  image: '/static/assets/img/pub/blank.jpg'
+  pmid: TBD
+  
+- citation: 'Yong-Yuk Won, Dongsun Seo, and **Sang Min Yoon**, “Optical Access Transmission with Improved Channel Capacity Using Non-orthogonal Frequency Quadrature Amplitude Modulation,” *Optical Quantum Electronics*, February 2017.'
   date: 2017
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: 'H. Wang, **S. M. Yoon**, D.K. Han, and H., Ko, “A feature descriptor based on the local patch clustering distribution for illumination-robust image matching,” Pattern Recognition Letters, 2017.'
-  date: 2017
-  image: '/static/assets/img/pub/blank.jpg'
-  pmid: TBD
-
-- citation: 'Gangjoon Yoon and **Sang Min Yoon**, “Sketch-based 3D object recognition from locally optimized sparse features,” Neurocomputing, 2017.'
-  date: 2017
-  image: '/static/assets/img/pub/blank.jpg'
-  pmid: TBD
-
-- citation: 'Song-Mi Lee, **Sang Min Yoon**, and **Heeryon Cho**, “Human Activity Recognition from Accelerometer Data using Convolution Neural Network,” IEEE BigComp, 2017.'
+- citation: 'Song-Mi Lee, **Sang Min Yoon**, and **Heeryon Cho**, “Human Activity Recognition from Accelerometer Data using Convolution Neural Network,” *IEEE BigComp*, February 2017.'
   date: 2017
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
