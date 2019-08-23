@@ -229,16 +229,6 @@
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: 'H. Wang, **S. M. Yoon**, D.K. Han, and H., Ko, “A feature descriptor based on the local patch clustering distribution for illumination-robust image matching,” Pattern Recognition Letters, 2017.'
-  date: 2016
-  image: '/static/assets/img/pub/blank.jpg'
-  pmid: TBD
-
-- citation: 'G.-J. Yoon and **S. M. Yoon**, “Sketch-based 3D object recognition from locally optimized sparse features,” Neurocomputing, 2017.'
-  date: 2016
-  image: '/static/assets/img/pub/blank.jpg'
-  pmid: TBD
-
 - citation: '**H. Cho** and **S. M. Yoon**, “Feature word selection by iterative top-k aggregation for classifying recommended shops,” IEEE ICTC, 2016.'
   date: 2016
   image: '/static/assets/img/pub/blank.jpg'
