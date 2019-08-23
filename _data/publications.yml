@@ -87,12 +87,6 @@
     - name: Source code
       url: https://github.com/kookmin-hci/sketch_helper
       
-- citation: 'Daewoong Cheong, **Sang Min Yoon**, Gangjoon Yoon, Dongsun Seo, and Yong-Yuk Won, “Wireless Light Fidelity Channel Capacity Improvement Using Sparse Sampled Non-Orthogonal Frequency Shift Keying,” *IEEE Access*, July 2019.'
-  date: 2019
-  image: '/static/assets/img/pub/blank.jpg'
-  pmid: TBD
-  pdf: 'https://ieeexplore.ieee.org/document/8760469'
-
 - citation: 'Yong-Yuk Won, **Sang Min Yoon**, and Dongsun Seo, “Reduction of amplified spontaneous emission noise using a statistical signal adaptive filter,” *Optical and Quantum Electronics*. April 2019'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
