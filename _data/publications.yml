@@ -264,7 +264,7 @@
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
     
-- citation: '**Sang Min Yoon**, Gang-Joon Yoon, and Tobias Schreck, “User-drawn Sketch-based 3D Object Retrieval Using Sparse Coding,” *Multimedia Tools and Applications*, 2015.'
+- citation: '**Sang Min Yoon**, Gang-Joon Yoon, and Tobias Schreck, “User-drawn Sketch-based 3D Object Retrieval Using Sparse Coding,” *Multimedia Tools and Applications*, July 2015.'
   date: 2015
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
@@ -294,72 +294,72 @@
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**Sang Min Yoon** and A. Kuijper, “Human action recognition based on skeleton splitting,” Elsevier Expert Systems with Applications, 2013.'
+- citation: '**Sang Min Yoon** and Arjan Kuijper, “Human Action Recognition Based on Skeleton Splitting,” *Expert Systems with Applications*, December 2013.'
   date: 2013
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: 'H, Kakara, Y. Nishida, **Sang Min Yoon**, Y. Miyazaki, Y. Koizumi, H. Mizoguchi, and T. Yamanaka, “Development of childhood fall motion database and browser based on behavior measurements,” Elsevier Accident Analysis and Prevention, 2013.'
+- citation: 'Hiroyuki Kakara, Yoshifumi Nishida, **Sang Min Yoon**, Yusuke Miyazaki, Yoshinori Koizumi, Hiroshi Mizoguchi, and Tatsuhiro Yamanaka, “Development of Childhood Fall Motion Database and Browser Based on Behavior Measurements,” *Accident Analysis and Prevention*, October 2013.'
   date: 2013
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**Sang Min Yoon**, “ Three-dimensional volume data segmentation using diffusion tensor-based superquadric analysis,” SPIE Journal of Electronic Imaging, 2013.'
+- citation: 'Yong-Yuk Won and **Sang Min Yoon** “Acceleration of LTE-OFDM Data Rate in Wireless Backhaul Link using Compressed Sensing,” *IEEE ICTC*, October 2013.'
   date: 2013
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**Sang Min Yoon** and Gangjoon Yoon, “Sparse-Coding-based Computed Tomography Image Reconstruction,” publication in the Scientific World Journal, 2013.'
+- citation: '**Sang Min Yoon**, Gangjoon Yoon, and Kwang-Soo Hahn, “User-drawn Sketch-based 3D Object Retrieval Using Distributed Compressive Sensing,” *IEEE ICTC*, October 2013.'
+  date: 2013
+  image: '/static/assets/img/pub/blank.jpg'
+  pmid: tbd
+  
+- citation: '**Sang Min Yoon** and Gangjoon Yoon “Optimized Hybrid Shape Descriptor-based 3D Object Retrieval,” *IEEE ICIP*, September 2013.'
   date: 2013
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**Sang Min Yoon** and Gangjoon Yoon “Optimized hybrid shape descriptor-based 3D object retrieval,” IEEE ICIP, 2013.'
+- citation: '**Sang Min Yoon**, “ Three-dimensional Volume Data Segmentation Using Diffusion Tensor-based Superquadric Analysis,” *SPIE Journal of Electronic Imaging*, July 2013.'
   date: 2013
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: 'Yong-Yuk Won and **Sang Min Yoon** “Acceleration of LTE-OFDM Data Rate in Wireless Backhaul Link using Compressed Sensing,” IEEE ICTC, 2013.'
+- citation: '**Sang Min Yoon** and Gangjoon Yoon, “Sparse-Coding-based Computed Tomography Image Reconstruction,” *Scientific World Journal*, February 2013.'
   date: 2013
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**Sang Min Yoon**, K.-S. Hahn, and Gangjoon Yoon “User-drawn sketch-based 3D object retrieval using distributed compressive sensing,” IEEE ICTC, 2013.'
-  date: 2013
+- citation: 'Hiroyuki Kakara, Yoshifumi Nishida, **Sang Min Yoon**, Hiroshi Mizoguchi, and Hiroshi Yamanaka “Development of Database of Children’s Fall Dynamics Using Daily Behavior Observing System,” *Journal of Robotics and Mechatronics*, October 2012.'
+  date: 2012
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
-
-- citation: '**Sang Min Yoon** and Jae-Ho Han, “Motion Analysis of Magnetic Resonance Angiography Image in Diffusion Tensor Fields,” publication in the IEEE Sensors Journal, 12(11), pp.3275-3276, 2012.'
+  
+- citation: '**Sang Min Yoon** and Jae-Ho Han, “Motion Analysis of Magnetic Resonance Angiography Image in Diffusion Tensor Fields,” *IEEE Sensors Journal*, August 2012.'
   date: 2012
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: 'Hiroyuki Kakara, Yoshifumi Nishida, **Sang Min Yoon**, Hiroshi Mizoguchi, and Hiroshi Yamanaka “Development of Database of Children’s Fall Dynamics Using Daily Behavior Observing System,” publication in the Journal of Robotics and Mechatronics, 24(5), pp.802-810, 2012.'
+- citation: '**Sang Min Yoon** and Gang-Joon Yoon, “Compressive Matting” *International Symposium on Visual Computing*, July 2012.'
+  date: 2012
+  image: '/static/assets/img/pub/blank.jpg'
+  pmid: tbd
+  
+- citation: 'Hiroyouki Kakara, Yoshifumi Nishida, **Sang Min Yoon**, Yosuke Miyazaki, Horishi Mizoguchi, and Tatsuhiro Yamanaka, “Development of Database on Daily Living Activities for Realistic Biomechanical Simulation,” *AHFE*, July 2012.'
+  date: 2012
+  image: '/static/assets/img/pub/blank.jpg'
+  pmid: tbd
+  
+- citation: '**Sang Min Yoon**, Tobias Schreck, and Gang-Joon Yoon “Sparse Coding Based Feature Optimisation for Robust 3D Object Retrieval,” *Electronics Letters*, April 2012.'
   date: 2012
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**Sang Min Yoon**, Tobias Schreck, and Gang-Joon Yoon “Sparse coding based feature optimization for robust 3D object retrieval,” publication in IET Electronics Letters, 2012.'
+- citation: '**Sang Min Yoon** and Gang-Joon Yoon, “Alpha Matting Using Compressive Sensing,” *Electronics Letters*, February 2012.'
   date: 2012
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**Sang Min Yoon** and Gang-Joon Yoon, “Alpha matting using compressive sensing,” publication in IET Electronics Letters, 2012.'
-  date: 2012
-  image: '/static/assets/img/pub/blank.jpg'
-  pmid: tbd
-
-- citation: '**Sang Min Yoon** and Gang-Joon Yoon, “Compressive Matting” accepted in 8th International Symposium on Visual Computing," 2012.'
-  date: 2012
-  image: '/static/assets/img/pub/blank.jpg'
-  pmid: tbd
-
-- citation: 'Hiroyouki Kakara, Yoshifumi Nishida, **Sang Min Yoon**, Yosuke Miyazaki, Horishi Mizoguchi, and Tatsuhiro Yamanaka, “Development of Database on Daily Living Activities for Realistic Biomechanical Simulation,” Accepted in AHFE, 2012.'
-  date: 2012
-  image: '/static/assets/img/pub/blank.jpg'
-  pmid: tbd
-
-- citation: 'Tobias Schreck, **Sang Min Yoon**, and Arjan Kuijper, “Graph-based combination of fragment descriptors for improved 3D object retrieval,” published in ACM Multimedia System, 2012.'
+- citation: 'Tobias Schreck, **Sang Min Yoon**, and Arjan Kuijper, “Graph-based Combination of Fragment Descriptors for Improved 3D Object Retrieval,” *ACM Multimedia System*, February 2012.'
   date: 2012
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
