@@ -239,41 +239,31 @@
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: 'Yong-Yuk Won and **Sang Min Yoon**, “Improvement of Transmission Capacity in Optical Orthogonal frequency division multiplexed access link using an adaptive sampling and L1 minimization," 2015.'
+- citation: 'Jae-Ho Han and **Sang Min Yoon**, “Decoupling Structural Artifacts in Fiber Optic Imaging by Applying Compressive Sensing," *Optik-International Journal for Light and Electron Optics*, October 2015.'
   date: 2015
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
-
-- citation: 'J.-H. Han and **Sang Min Yoon**, “Decoupling structural artifacts in fiber optic imaging by applying compressive sensing," Optic, 2015.'
+    
+- citation: '**Hyeong Jae Hwang** and **Sang Min Yoon**, “Single Image-based 3D Scene Estimation from Semantic Prior,” *Electronics letters*, October 2015.'
   date: 2015
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
-
-- citation: '**H.-J. Hwang** and **Sang Min Yoon**, “Single image-based 3D scene estimation from semantic prior,” Electronics letters, 2015.'
+  
+- citation: '**Sang Min Yoon**, Gangjoon Yoon, **Jinjoo Song**, and Kwang-soo Hahn, “Simultaneous Detection of Pedestrians, Pose, and the Camera Viewpoint from 3D Models,” *IEEE ICTC*, October 2015.'
   date: 2015
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
-
-- citation: '**Sang Min Yoon** and J. Yoon, “Depth map enhancement using adaptive moving least squares method with a total variation minimization,” Multimedia Tools and Applications, 2015.'
+ 
+- citation: 'Yong-Yuk Won and **Sang Min Yoon**, “Orthogonal Frequency Division Multiplexed Passive Optical Access Transmission with Improved Transmission Capacity by the use of Adaptive Sampling based on Compressive Sensing,” *IEEE ICTC*, October 2015.'
   date: 2015
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
-
-- citation: '**Sang Min Yoon**, “Visibility enhancement of fog-degraded image using adaptive total variation minimization,” 2015.'
+ 
+- citation: 'Yong-Yuk Won and **Sang Min Yoon**, “Improvement of Transmission Capacity in Optical Orthogonal Frequency Division Multiplexed Access Link using an Adaptive Sampling and L1 Minimization," *Optical and Quantum Electronics*, August 2015.'
   date: 2015
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
-
-- citation: '**Sang Min Yoon**, **J. Song**, K. Hahn, and G. Yoon, “Simultaneous detection of pedestrians, pose, and the camera viewpoint from 3D models,” IEEE ICTC, 2015.'
-  date: 2015
-  image: '/static/assets/img/pub/blank.jpg'
-  pmid: tbd
-
-- citation: 'Yong-Yuk Won and **Sang Min Yoon**, “Orthogonal Frequency Division Multiplexed Passive Optical Access Transmission with Improved Transmission Capacity by the use of Adaptive Sampling based on Compressive Sensing,” IEEE ICTC, 2015.'
-  date: 2015
-  image: '/static/assets/img/pub/blank.jpg'
-  pmid: tbd
-
+  
 - citation: 'Yong-Yuk Won and **Sang Min Yoon**, “Improvement of channel bandwidth in optical wireless OFDM link based on visible light emitting diode using compressive sensing,” COIN, 2014.'
   date: 2015
   image: '/static/assets/img/pub/blank.jpg'
@@ -289,7 +279,7 @@
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**Sang Min Yoon**, Y.J. Lee, G.-J. Yoon, and J. Yoon, “Adaptive Total Variation Minimization-based image enhancement from flash and no-flash pairs," The Scientific World Journal, 2014.'
+- citation: '**Sang Min Yoon**, Yeon Ju Lee, Gang-Joon Yoon, and Jungho Yoon, “Adaptive Total Variation Minimization-based image enhancement from flash and no-flash pairs," *The Scientific World Journal*, March 2014.'
   date: 2014
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
