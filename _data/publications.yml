@@ -114,7 +114,7 @@
     - name: Source code
       url: https://github.com/heeryoncho/SVD_applied_fall_detection 
 
-- citation: '**최정우**, **윤상민**, 박제성, 한광수, “단안 카메라 기반 실시간 3차원 사람 자세 인식을 통한 미디어 아트 기술”, *제31회 영상처리 및 이해에 관한 워크샵(IPIU)*. 2019.'
+- citation: '**최정우**, **윤상민**, 박제성, 한광수, “단안 카메라 기반 실시간 3차원 사람 자세 인식을 통한 미디어 아트 기술”, *제31회 영상처리 및 이해에 관한 워크샵(IPIU)*. February 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
@@ -214,32 +214,32 @@
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: '**Sang Min Yoon**, “Visibility enhancement of fog-degraded image using adaptive total variation minimization,” Journal of Imaging Science, 2016.'
+- citation: '**Sang Min Yoon** and Jungho Yoon, “Depth Map Enhancement Using Adaptive Moving Least Squares Method with a Total Variation Minimization”, *Multimedia Tools and Applications*, December 2016.'
   date: 2016
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: 'Yong-Yuk Won, D. Seo, and **Sang Min Yoon**, “White light-emitting diode based wireless orthogonal frequency division multiplexing link with improved transmission capacity using Bayesian compressive sensing,” Optical Engineering, 2016.'
+- citation: 'Yong-Yuk Won, **Sang Min Yoon**, and Dongsun Seo, “Improvement of Optical Access M-QAM Transmission Capacity Using DSP Based Non-orthogonal Frequency Shift Keying,” *IEEE IPC*, October 2016'
+  date: 2016
+  image: '/static/assets/img/pub/blank.jpg'
+  pmid: TBD
+  
+- citation: '**Heeryon Cho** and **Sang Min Yoon**, “Feature Word Selection by Iterative Top-k Aggregation for Classifying Recommended Shops,” *IEEE ICTC*, October 2016.'
   date: 2016
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: '**Sang Min Yoon** and J. Yoon, “Depth map enhancement using adaptive moving least squares method with a total variation minimization”, Multimedia Tools and Applications, 2016.'
+- citation: 'Yong-Yuk Won, Dongsun Seo, and **Sang Min Yoon**, “White Light-emitting Diode Based Wireless Orthogonal Frequency Division Multiplexing Link with Improved Transmission Capacity Using Bayesian Compressive Sensing,” *Optical Engineering*, April 2016.'
   date: 2016
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: '**H. Cho** and **Sang Min Yoon**, “Feature word selection by iterative top-k aggregation for classifying recommended shops,” IEEE ICTC, 2016.'
+- citation: '**Sang Min Yoon**, “Visibility Enhancement of Fog-degraded Image Using Adaptive Total Variation Minimization,” *Journal of Imaging Science*, February 2016.'
   date: 2016
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
 
-- citation: 'Yong-Yuk Won, **Sang Min Yoon**, and D. Seo, “Improvement of optical access M-QAM transmission capacity using DSP based non-orthogonal frequency shift keying,” IEEE IPC, 2016'
-  date: 2016
-  image: '/static/assets/img/pub/blank.jpg'
-  pmid: TBD
-
-- citation: 'Yong-Yuk Won and **Sang Min Yoon**, “Improvement of transmission capacity in optical orthogonal frequency division multiplexed access link using an adaptive sampling and L1 minimization," 2015.'
+- citation: 'Yong-Yuk Won and **Sang Min Yoon**, “Improvement of Transmission Capacity in Optical Orthogonal frequency division multiplexed access link using an adaptive sampling and L1 minimization," 2015.'
   date: 2015
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
