@@ -504,17 +504,17 @@
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**Sang Min Yoon** and Seok Cheol Kee, “Detection of partially occluded face using Support Vector Machines,” IAPR workshop on Machine Vision and Applications (MVA), 2002.'
+- citation: '**Sang Min Yoon** and Seok Cheol Kee, “Detection of Partially Occluded Face Using Support Vector Machines,” *IAPR workshop on Machine Vision and Applications (MVA)*, December 2002.'
   date: 2002
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**Sang Min Yoon**, Ig-Jae Kim, Hanseok Ko, and Hyoung Gon Kim, “Stereo Vision based 3D Input Device,” IEEE International Conference on Acoustics Speech and Signal Processing (ICASSP), 2002.'
+- citation: '**윤상민**, 김익재, 안상철, 고한석, 김형곤, “스테레오 비전을 기반으로 한 3차원 입력 장치”, *전자공학회 논문지* July 2002.'
   date: 2002
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**Sang Min Yoon**, Ig-Jae Kim, Sang Chul Ahn, Hanseok Ko, and Hyoung Gon Kim“Computer Vision Based 3D Input Device,” IEEK 2002, (Korean Language).'
+- citation: '**Sang Min Yoon**, Ig-Jae Kim, Hanseok Ko, and Hyoung Gon Kim, “Stereo Vision Based 3D Input Device,” *IEEE ICASSP*, May 2002.'
   date: 2002
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
