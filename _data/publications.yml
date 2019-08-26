@@ -268,6 +268,11 @@
   date: 2015
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
+    
+- citation: '**Sang Min Yoon**, Gang-Joon Yoon, and Tobias Schreck, “User-drawn Sketch-based 3D Object Retrieval Using Sparse Coding,” *Multimedia Tools and Applications*, 2015.'
+  date: 2015
+  image: '/static/assets/img/pub/blank.jpg'
+  pmid: tbd
 
 - citation: 'Yong-Yuk Won and **Sang Min Yoon**, “Compressive sensing-based channel bandwidth improvement in optical wireless orthogonal frequency division multiplexing link using visible light emitting diode,” Optics Express, 2014.'
   date: 2014
@@ -280,11 +285,6 @@
   pmid: tbd
 
 - citation: '**Sang Min Yoon**, Yeon Ju Lee, Gang-Joon Yoon, and Jungho Yoon, “Adaptive Total Variation Minimization-based image enhancement from flash and no-flash pairs," *The Scientific World Journal*, March 2014.'
-  date: 2014
-  image: '/static/assets/img/pub/blank.jpg'
-  pmid: tbd
-
-- citation: '**Sang Min Yoon**, G.-J. Yoon, and T. Schreck, “User-drawn sketch-based 3D object retrieval using sparse coding,” Multimedia Tools and Applications, 2014.'
   date: 2014
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
