@@ -263,38 +263,33 @@
   date: 2015
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
-  
-- citation: 'Yong-Yuk Won and **Sang Min Yoon**, “Improvement of channel bandwidth in optical wireless OFDM link based on visible light emitting diode using compressive sensing,” COIN, 2014.'
-  date: 2015
-  image: '/static/assets/img/pub/blank.jpg'
-  pmid: tbd
     
 - citation: '**Sang Min Yoon**, Gang-Joon Yoon, and Tobias Schreck, “User-drawn Sketch-based 3D Object Retrieval Using Sparse Coding,” *Multimedia Tools and Applications*, 2015.'
   date: 2015
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: 'Yong-Yuk Won and **Sang Min Yoon**, “Compressive sensing-based channel bandwidth improvement in optical wireless orthogonal frequency division multiplexing link using visible light emitting diode,” Optics Express, 2014.'
+- citation: 'Dubok Park, Minjae Kim, Bonhwa Ku, **Sang Min Yoon**, and David K. Han, “Image Enhancement for Extremely Low Light Conditions,” *IEEE AVSS*, August 2014.'
   date: 2014
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
-- citation: '**Sang Min Yoon**, H. Graf, and A. Kuijper, “Hierarchical Image Representation using 3D Camera Geometry for Content-Based Image Retrieval,” Journal of Engineering Applications of Artificial Intelligence, 2014.'
+- citation: 'Yong-Yuk Won and **Sang Min Yoon**, “Improvement of Channel Bandwidth in Optical Wireless OFDM Link Based on Visible Light Emitting Diode Using Compressive Sensing,” *COIN*, August 2014.'
+  date: 2014
+  image: '/static/assets/img/pub/blank.jpg'
+  pmid: tbd
+
+- citation: 'Yong-Yuk Won and **Sang Min Yoon**, “Compressive Sensing-based Channel Bandwidth Improvement in Optical Wireless Orthogonal Frequency Division Multiplexing Link Using Visible Light Emitting Diode,” *Optics Express*, August 2014.'
+  date: 2014
+  image: '/static/assets/img/pub/blank.jpg'
+  pmid: tbd
+
+- citation: '**Sang Min Yoon**, Holger Graf, and Arjan Kuijper, “Hierarchical Image Representation Using 3D Camera Geometry for Content-based Image Retrieval,” *Journal of Engineering Applications of Artificial Intelligence*, April 2014.'
   date: 2014
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
 
 - citation: '**Sang Min Yoon**, Yeon Ju Lee, Gang-Joon Yoon, and Jungho Yoon, “Adaptive Total Variation Minimization-based image enhancement from flash and no-flash pairs," *The Scientific World Journal*, March 2014.'
-  date: 2014
-  image: '/static/assets/img/pub/blank.jpg'
-  pmid: tbd
-
-- citation: 'D. Park, M. Kim, B. Ku, **Sang Min Yoon**, and D. Han, “Image Enhancement for Extremely Low Light Conditions,” IEEE AVSS, 2014.'
-  date: 2014
-  image: '/static/assets/img/pub/blank.jpg'
-  pmid: tbd
-
-- citation: 'Yong-Yuk Won and **Sang Min Yoon**, “Improvement of channel bandwidth in optical wireless OFDM link based on visible light emitting diode using compressive sensing,” COIN, 2014.'
   date: 2014
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
