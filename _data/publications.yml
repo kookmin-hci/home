@@ -60,7 +60,7 @@
 #      url: 'https://twitter.com/fraser_lab/status/956318642454474752'
 
 
-- citation: '**Jinjoo Song**, Gangjoon Yoon, and **Sang Min Yoon**, “Monolithic Image Decomposition,” *Neurocomputing*, 2019.'
+- citation: '**Jinjoo Song**, Gangjoon Yoon, and **Sang Min Yoon**, “Monolithic Image Decomposition,” *Neurocomputing*, November 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
@@ -69,7 +69,7 @@
     - name: Source code
       url: https://github.com/decpearl/MonoID
       
-- citation: '**Jinjoo Song**, Gangjoon Yoon, Kwangsoo Hahn, and **Sang Min Yoon**, “Subspace Clustering via Structure-enforced Dictionary Learning,” *Neurocomputing*, 2019.'
+- citation: '**Jinjoo Song**, Gangjoon Yoon, Kwangsoo Hahn, and **Sang Min Yoon**, “Subspace Clustering via Structure-enforced Dictionary Learning,” *Neurocomputing*, October 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
