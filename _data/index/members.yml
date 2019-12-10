@@ -86,7 +86,7 @@
 
 - last_name: Lee
   first_name: Yeonji
-  avatar: /static/assets/img/landing/lee.png  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/lee.png   # upload your avatar at directory and edit it.
   position: Undergraduate Student
   desc: 
   website: 
