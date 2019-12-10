@@ -83,3 +83,17 @@
   twitter_username:  # Leave blank if you don't have now
   cv: # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
+
+- last_name: Lee
+  first_name: Yeonji
+  avatar: /static/assets/img/landing/lee.jpg  # upload your avatar at directory and edit it.
+  position: Undergraduate Student
+  desc: 
+  website: 
+  email: nelumbotus@kookmin.ac.kr  # Leave blank if you don't have now
+  github_username: nelumbotus   # Leave blank if you don't have now
+  linkedin_id:   # Leave blank if you don't have now
+  facebook_username:  # Leave blank if you don't have now
+  twitter_username:  # Leave blank if you don't have now
+  cv: # An online CV can be printed as PDF, leave blank if you don't have now
+  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
