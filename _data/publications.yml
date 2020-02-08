@@ -73,6 +73,8 @@
 
 - citation: '**문환복**, **윤상민**, “손실 함수 가중치 최적화 방법을 이용한 단일 영상 기반 초고해상도 복원”, *제32회 영상처리 및 이해에 관한 워크샵(IPIU)*. February 2020.'
   date: 2020
+  image: '/static/assets/img/pub/blank.jpg'
+  pmid: TBD
 
 - citation: '**Jinjoo Song**, Gangjoon Yoon, and **Sang Min Yoon**, “Monolithic Image Decomposition,” *Neurocomputing*, November 2019.'
   date: 2019
