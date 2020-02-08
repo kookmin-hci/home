@@ -59,6 +59,23 @@
 #    - name: 'Paper Submission Celebration Photo'
 #      url: 'https://twitter.com/fraser_lab/status/956318642454474752'
 
+- citation: 'Yong-Yuk Won, **Sang Min Yoon**, Dongsun Seo, “Improvement of optical fiber channel capacity using compressed non-orthogonal frequency quadrature amplitude modulation,” *Optical Fiber Technology*, February 2020.'
+  date: 2020
+  image: '/static/assets/img/pub/blank.jpg'
+  pmid: TBD
+  pdf: 'https://doi.org/10.1016/j.yofte.2019.102058'
+
+- citation: '**송진주**, **윤상민**, “Self-expressive Unet을 이용한 부분공간 군집화”, *제32회 영상처리 및 이해에 관한 워크샵(IPIU)*. February 2020.'
+  date: 2020
+  image: '/static/assets/img/pub/blank.jpg'
+  pmid: TBD
+  
+
+- citation: '**문환복**, **윤상민**, “손실 함수 가중치 최적화 방법을 이용한 단일 영상 기반 초고해상도 ”, *제32회 영상처리 및 이해에 관한 워크샵(IPIU)*. February 2020.'
+  date: 2020
+  image: '/static/assets/img/pub/blank.jpg'
+  pmid: TBD
+      
 
 - citation: '**Jinjoo Song**, Gangjoon Yoon, and **Sang Min Yoon**, “Monolithic Image Decomposition,” *Neurocomputing*, November 2019.'
   date: 2019
