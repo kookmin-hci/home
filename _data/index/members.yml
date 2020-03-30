@@ -69,7 +69,21 @@
   twitter_username:  # Leave blank if you don't have now
   cv: # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
-  
+ 
+- last_name: Park
+  first_name: GeonHui
+  avatar: /static/assets/img/landing/park.png  # upload your avatar at directory and edit it.
+  position: Undergraduate Student
+  desc: 
+  website: http://jungwoo.me
+  email: pgh9801@gmail.com  # Leave blank if you don't have now
+  github_username: noirmist  # Leave blank if you don't have now
+  linkedin_id: dnp4vr  # Leave blank if you don't have now
+  facebook_username:  # Leave blank if you don't have now
+  twitter_username:  # Leave blank if you don't have now
+  cv: # An online CV can be printed as PDF, leave blank if you don't have now
+  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
+
 - last_name: Choi
   first_name: Jungwoo
   avatar: /static/assets/img/landing/choi.jpg  # upload your avatar at directory and edit it.
