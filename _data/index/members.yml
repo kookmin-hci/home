@@ -34,7 +34,7 @@
   position: Master's Student
   desc: 
   website: 
-  email: ehwk920@gmail.com  # Leave blank if you don't have now
+  email: ehwk9200@kookmin.ac.kr  # Leave blank if you don't have now
   github_username: jgnooo   # Leave blank if you don't have now
   linkedin_id:   # Leave blank if you don't have now
   facebook_username:  # Leave blank if you don't have now
@@ -101,7 +101,7 @@
 - last_name: Song
   first_name: Jinjoo
   avatar: /static/assets/img/landing/song.jpg  # upload your avatar at directory and edit it.
-  position: Ph.D. Candidate
+  position: Professor
   desc: 
   website: 
   email: decpearl@kookmin.ac.kr  # Leave blank if you don't have now
