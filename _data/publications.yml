@@ -58,11 +58,6 @@
 #      url: 'https://www.schrodinger.com'
 #    - name: 'Paper Submission Celebration Photo'
 #      url: 'https://twitter.com/fraser_lab/status/956318642454474752'
-
-- citation: '**문환복**, **윤상민** “Attention 모델을 이용한 단일 영상 초고해상도 복원 기술”, *한국방송・미디어공학회 하계학술대회*, July 2020'
-  date: 2020
-  image: '/static/assets/img/pub/blank.jpg'
-  pmid: TBD
   
 - citation: 'Yong-Yuk Won, **Sang Min Yoon**, Dongsun Seo, “Reduction of optical beat inferference noise using statistical adaptive derivative equalizer,” *Optical Communications*, November 2020.'
   date: 2020
