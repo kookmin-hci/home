@@ -73,16 +73,19 @@
   date: 2020
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
+  pdf: 'https://hci.myDS.me/sharing/OUzZDfirm'
   
 - citation: '**정근호**, **윤상민** “Attention Model을 이용한 단안 영상 기반 깊이 추정 네트워크”, *한국방송・미디어공학회 하계학술대회*, July 2020'
   date: 2020
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
+  pdf: 'https://hci.myDS.me/sharing/O0INoCMON'
   
-- citation: '**문환복**, **윤상민** “Attention 모델을 이용한 단일 영상 초고해상도 복원 기술”, *한국방송・미디어공학회 하계학술대회*, July 2020'
+- citation: '**문환복**, **윤상민** “Attention 모델을 이용한 단일 영상 초고해상도 복원 기술”, *한국방송・미디어공학회 하계학술대회*, July 2020, *[우수학생논문]*'
   date: 2020
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
+  pdf: 'https://hci.myDS.me/sharing/N3iA42gWx'
   
 - citation: 'Yong-Yuk Won, **Sang Min Yoon**, Dongsun Seo, “Improvement of optical fiber channel capacity using compressed non-orthogonal frequency quadrature amplitude modulation,” *Optical Fiber Technology*, February 2020.'
   date: 2020
