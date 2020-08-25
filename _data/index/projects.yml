@@ -24,8 +24,8 @@
 
 - name: Attention 모델을 이용한 단일 영상 초고해상도 복원 기술
   i18n: 
-  gh_user: kookmin-hci
-  repo: sketch_helper
+  gh_user: helloiwsy
+  repo: Attention_SR
   img: /static/assets/img/landing/Attention_SR_network.png
   desc: 문환복, 윤상민 “Attention 모델을 이용한 단일 영상 초고해상도 복원 기술”, 한국방송・미디어공학회 하계학술대회, July 2020, [우수학생논문]
   
