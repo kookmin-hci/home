@@ -58,7 +58,7 @@
 
 - last_name: Kim
   first_name: Sunphill
-  avatar: /static/assets/img/landing/default.jpg   # upload your avatar at directory and edit it.
+  avatar: static/assets/img/landing/KakaoTalk_20210209_154353074.jpg   # upload your avatar at directory and edit it.
   position: Master's Student
   desc: 
   website: 
