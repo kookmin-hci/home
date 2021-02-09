@@ -72,7 +72,7 @@
 
 - last_name: Kim
   first_name: Myungjin
-  avatar: /static/assets/img/landing/kmj.jpeg   # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/kmj.jpg   # upload your avatar at directory and edit it.
   position: Master's Student
   desc: 
   website: 
