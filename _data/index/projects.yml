@@ -22,12 +22,12 @@
   img: /static/assets/img/landing/SketchHelper_example.png
   desc: Jungwoo Choi, Heeryon Cho, Jinjoo Song, and Sang Min Yoon, "SketchHelper&#58; Real-time Stroke Guidance for Freehand Sketch Retrieval," IEEE Transactions on Multimedia, 2019.
 
-- name: Attention 모델을 이용한 단일 영상 초고해상도 복원 기술
+- name: Deep self-representative subspace clustering network
   i18n: 
-  gh_user: helloiwsy
+  gh_user: 
   repo: Attention_SR
-  img: /static/assets/img/landing/Attention_SR_network.png
-  desc: 문환복, 윤상민 “Attention 모델을 이용한 단일 영상 초고해상도 복원 기술”, 한국방송・미디어공학회 하계학술대회, July 2020, [우수학생논문]
+  img: /static/assets/img/landing/network.png
+  desc: Sangwon Baek, Gangjoon Yoon, Jinjoo Song, SangMin Yoon, “Deep self-representative subspace clustering network”, Pattern Recognition, October 2021
   
 - name: Structure Adaptive Total Variation Minimization-based Image Decomposition
   i18n: 
