@@ -4,7 +4,7 @@
   first_name: Sang Min
   avatar: /static/assets/img/landing/yoon.png  # upload your avatar at directory and edit it.
   position: Professor
-  desc: 
+  desc:
   website: https://sites.google.com/kookmin.ac.kr/sangminy/
   email: smyoon@kookmin.ac.kr  # Leave blank if you don't have now
   github_username:    # Leave blank if you don't have now
@@ -18,8 +18,8 @@
   first_name: Jinjoo
   avatar: /static/assets/img/landing/song.jpg  # upload your avatar at directory and edit it.
   position: Professor
-  desc: 
-  website: 
+  desc:
+  website:
   email: decpearl@kookmin.ac.kr  # Leave blank if you don't have now
   github_username: decpearl
   linkedin_id:   # Leave blank if you don't have now
@@ -32,8 +32,8 @@
   first_name: Geunho
   avatar: /static/assets/img/landing/jung.jpg  # upload your avatar at directory and edit it.
   position: Master's Student
-  desc: 
-  website: 
+  desc:
+  website:
   email: ehwk9200@kookmin.ac.kr  # Leave blank if you don't have now
   github_username: jgnooo   # Leave blank if you don't have now
   linkedin_id:   # Leave blank if you don't have now
@@ -46,8 +46,8 @@
   first_name: Sangwon
   avatar: /static/assets/img/landing/baek.jpeg  # upload your avatar at directory and edit it.
   position: Master's Student
-  desc: 
-  website: 
+  desc:
+  website:
   email: korca202@gmail.com  # Leave blank if you don't have now
   github_username: korca2002   # Leave blank if you don't have now
   linkedin_id:   # Leave blank if you don't have now
@@ -60,8 +60,8 @@
   first_name: Sunphill
   avatar: /static/assets/img/landing/sunpil.jpg   # upload your avatar at directory and edit it.
   position: Master's Student
-  desc: 
-  website: 
+  desc:
+  website:
   email: ksp2246@kookmin.ac.kr  # Leave blank if you don't have now
   github_username: ShineySun   # Leave blank if you don't have now
   linkedin_id:   # Leave blank if you don't have now
@@ -74,8 +74,8 @@
   first_name: Myungjin
   avatar: /static/assets/img/landing/kmj.jpg   # upload your avatar at directory and edit it.
   position: Master's Student
-  desc: 
-  website: 
+  desc:
+  website:
   email: audwlsdl1729@gmail.com  # Leave blank if you don't have now
   github_username: kmj-audwls   # Leave blank if you don't have now
   linkedin_id:   # Leave blank if you don't have now
@@ -83,13 +83,13 @@
   twitter_username:  # Leave blank if you don't have now
   cv: # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
-  
+
 - last_name: Bae
   first_name: Hanbin
   avatar: /static/assets/img/landing/hanbin.jpg # upload your avatar at directory and edit it.
   position: undergraduate's Student
-  desc: 
-  website: 
+  desc:
+  website:
   email: hanbin1931@gmail.com  # Leave blank if you don't have now
   github_username: hambbuk   # Leave blank if you don't have now
   linkedin_id:   # Leave blank if you don't have now
@@ -98,4 +98,58 @@
   cv: # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
 
+- last_name: Jang
+  first_name: Minhyuk
+  avatar: /static/assets/img/landing/minhyuk.jpg # upload your avatar at directory and edit it.
+  position: undergraduate's Student
+  desc:
+  website:
+  email: wkdalsgur85@kookmin.ac.kr # Leave blank if you don't have now
+  github_username: Min-Hyuk98   # Leave blank if you don't have now
+  linkedin_id:   # Leave blank if you don't have now
+  facebook_username:  # Leave blank if you don't have now
+  twitter_username:  # Leave blank if you don't have now
+  cv: # An online CV can be printed as PDF, leave blank if you don't have now
+  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
 
+- last_name: Jo
+  first_name: Nayoung
+  avatar: /static/assets/img/landing/nayoung.jpg # upload your avatar at directory and edit it.
+  position: undergraduate's Student
+  desc:
+  website:
+  email: jny2253@kookmin.ac.kr # Leave blank if you don't have now
+  github_username: NaYoung2253   # Leave blank if you don't have now
+  linkedin_id:   # Leave blank if you don't have now
+  facebook_username:  # Leave blank if you don't have now
+  twitter_username:  # Leave blank if you don't have now
+  cv: # An online CV can be printed as PDF, leave blank if you don't have now
+  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
+
+- last_name: Hwang
+  first_name: Kyomin
+  avatar: /static/assets/img/landing/kyomin.jpg # upload your avatar at directory and edit it.
+  position: undergraduate's Student
+  desc:
+  website:
+  email: piter0208@kookmin.ac.kr # Leave blank if you don't have now
+  github_username: KyominHwang   # Leave blank if you don't have now
+  linkedin_id:   # Leave blank if you don't have now
+  facebook_username:  # Leave blank if you don't have now
+  twitter_username:  # Leave blank if you don't have now
+  cv: # An online CV can be printed as PDF, leave blank if you don't have now
+  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
+
+- last_name: Lee
+  first_name: Yoonjae
+  avatar: /static/assets/img/landing/yoonjae.jpg # upload your avatar at directory and edit it.
+  position: undergraduate's Student
+  desc:
+  website:
+  email: xkdytk@gmail.com # Leave blank if you don't have now
+  github_username: xkdytk   # Leave blank if you don't have now
+  linkedin_id:   # Leave blank if you don't have now
+  facebook_username:  # Leave blank if you don't have now
+  twitter_username:  # Leave blank if you don't have now
+  cv: # An online CV can be printed as PDF, leave blank if you don't have now
+  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
