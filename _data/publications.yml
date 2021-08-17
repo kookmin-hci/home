@@ -59,6 +59,12 @@
 #    - name: 'Paper Submission Celebration Photo'
 #      url: 'https://twitter.com/fraser_lab/status/956318642454474752'
 
+- citation: '**Sang Won Baek**, Gang-Joon Yoon, **Jinjoo Song** **Sang Min Yoon** "Deep self-representative subspace clustering network", *Pattern Recognition*, October 2021'
+  date: 2021
+  image: '/static/assets/img/pub/blank.jpg'
+  pmid: TBD
+  pdf: 'https://www.sciencedirect.com/science/article/pii/S0031320321002284'
+
 - citation: '**Yong-Yuk Won**, Sang Min Yoon, **Dongsun Seo** "Ambient LED Light Noise Reduction Using Adaptive Differential Equalization in Li-Fi Wireless Link", *Sensors*, February 2021'
   date: 2021
   image: '/static/assets/img/pub/blank.jpg'
