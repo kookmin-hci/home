@@ -1,7 +1,7 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: AI for design&#58; Virtual design assistant
+- name: 김선필 현대자동차 연구장학생 합격
   i18n: 
   gh_user: 
   repo: 
