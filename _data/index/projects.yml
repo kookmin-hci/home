@@ -8,7 +8,7 @@
   img: /static/assets/img/landing/spkim_hyundai.png
   desc: 김선필 학생이 현대자동차 자율주행 소프트웨어 개발 분야의 연구장학생으로 선발되었습니다. 축하합니다.
   
-  - name: 2021년도 연구실 신규 과제 선정
+- name: 2021년도 연구실 신규 과제 선정
   i18n: 
   gh_user: kookmin-hci
   repo: Project
