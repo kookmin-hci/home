@@ -11,13 +11,14 @@
 - name: 2021년도 연구실 신규 과제 선정
   i18n: 
   gh_user: 
-  repo:   img: /static/assets/img/landing/2021_project.png
+  repo:   
+  img: /static/assets/img/landing/2021_project.png
   desc: 2021년도에 연구재단 및 ETRI로부터 신규 과제를 수주하여 컴퓨터 비전 연구를 집중적으로 연구를 수행하게 되었습니다. 
 
 - name: Texture Preserving Photo Style Transfer Network
   i18n: 
   gh_user: decpearl
-  repo: SSPCA_SC
+  repo: 
   img: /static/assets/img/landing/style_transfer.png
   desc: Hwanbok Mun, Gangjoon Yoon, Jinjoo Song, and Sang Min Yoon, "Texture Preserving Photo Style Transfer Network," IEEE transactions on Multimedia, Aug 2021.
 
