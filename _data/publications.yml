@@ -59,6 +59,12 @@
 #    - name: 'Paper Submission Celebration Photo'
 #      url: 'https://twitter.com/fraser_lab/status/956318642454474752'
 
+- citation: '**Hwanbok Mun**, Gang-Joon Yoon, **Jinjoo Song**, **Sang Min Yoon** "Texture Preserving Photo Style Transfer Network", *IEEE transactions on Multimedia*, August 2021'
+  date: 2021
+  image: '/static/assets/img/pub/blank.jpg'
+  pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9525307&tag=1'
+
+
 - citation: '**Sang Won Baek**, Gang-Joon Yoon, **Jinjoo Song**, **Sang Min Yoon** "Deep self-representative subspace clustering network", *Pattern Recognition*, October 2021'
   date: 2021
   image: '/static/assets/img/pub/blank.jpg'
