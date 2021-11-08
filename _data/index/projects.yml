@@ -11,16 +11,16 @@
 - name: Computational Large Field-of-View RGB-D Integral Imaging System
   i18n: 
   gh_user: 
-  repo: 'https://www.mdpi.com/1424-8220/21/21/7407'  
+  repo:  
   img: /static/assets/img/landing/geunho_sensors.png
-  desc: 2021년도에 연구재단 및 ETRI로부터 신규 과제를 수주하여 컴퓨터 비전 연구를 집중적으로 연구를 수행하게 되었습니다. 
+  desc: Geunho Jung, Yong-Yuk Won, and Sang Min Yoon, "Computational Large Field-of-View RGB-D Integral Imaging System," Sensors, Nov 2021. 
 
 - name: Texture Preserving Photo Style Transfer Network
   i18n: 
   gh_user: decpearl
   repo: 
   img: /static/assets/img/landing/style_transfer.png
-  desc: Geunho Jung, Yong-Yuk Won, and Sang Min Yoon, "Computational Large Field-of-View RGB-D Integral Imaging System," Sensors, Nov 2021.
+  desc: Hwanbok Mun, Gang-Joon Yoon, Jinjoo Song, and Sang Min Yoon, "Texture Preserving Photo Style Transfer Network," IEEE transactions on Multimedia, Aug 2021.
 
 
 - name: Subspace clustering via structure-enforced dictionary learning
