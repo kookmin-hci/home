@@ -8,11 +8,11 @@
   img: /static/assets/img/landing/spkim_hyundai.png
   desc: 김선필 학생이 현대자동차 자율주행 소프트웨어 개발 분야(2023년 입사 예정)의 연구장학생으로 선발되었습니다. 축하합니다.
   
-- name: 2021년도 연구실 신규 과제 선정
+- name: Computational Large Field-of-View RGB-D Integral Imaging System
   i18n: 
   gh_user: 
-  repo:   
-  img: /static/assets/img/landing/2021_project.png
+  repo: 'https://www.mdpi.com/1424-8220/21/21/7407'  
+  img: /static/assets/img/landing/geunho_sensors.png
   desc: 2021년도에 연구재단 및 ETRI로부터 신규 과제를 수주하여 컴퓨터 비전 연구를 집중적으로 연구를 수행하게 되었습니다. 
 
 - name: Texture Preserving Photo Style Transfer Network
@@ -20,7 +20,7 @@
   gh_user: decpearl
   repo: 
   img: /static/assets/img/landing/style_transfer.png
-  desc: Hwanbok Mun, Gangjoon Yoon, Jinjoo Song, and Sang Min Yoon, "Texture Preserving Photo Style Transfer Network," IEEE transactions on Multimedia, Aug 2021.
+  desc: Geunho Jung, Yong-Yuk Won, and Sang Min Yoon, "Computational Large Field-of-View RGB-D Integral Imaging System," Sensors, Nov 2021.
 
 
 - name: Subspace clustering via structure-enforced dictionary learning
