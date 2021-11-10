@@ -63,7 +63,7 @@
   date: 2021
   image: '/static/assets/img/pub/blank.jpg'
   pdf: 'https://www.mdpi.com/1424-8220/21/21/7407'
-  
+
 - citation: 'Yong-Yuk Won, **Sang Min Yoon**, Jeungmo Kang, Dongsun Seo "Simultaneous optical transmission of pulse amplitude modulation and discrete multitone signals in passive optical link using derivative and subtractive equalization", *SPIE Optical Engineering*, November 2021'
   date: 2021
   image: '/static/assets/img/pub/blank.jpg'
@@ -79,30 +79,33 @@
   date: 2021
   image: '/static/assets/img/pub/blank.jpg'
   pdf: 'https://www.sciencedirect.com/science/article/pii/S0031320321002284'
+  links:
+    - name: Source code
+      url: https://github.com/sangwon1338/Deep_subspace_clustering_Network_pytroch
 
 - citation: '**Yong-Yuk Won**, Sang Min Yoon, **Dongsun Seo** "Ambient LED Light Noise Reduction Using Adaptive Differential Equalization in Li-Fi Wireless Link", *Sensors*, February 2021'
   date: 2021
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
   pdf: 'https://doi.org/10.3390/s21041060'
-  
+
 - citation: '**Hwanbok Mun**, Gang-Joon Yoon, **Jinjoo Song**, **Sang Min Yoon** “Scalable image decomposition”, *Neural Computing and Applications*, January 2021'
   date: 2021
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
   pdf: 'https://doi.org/10.1007/s00521-020-05677-x'
-  
+
 - citation: '**문환복**, **윤상민** “초고해상도 복원에서 성능 향상을 위한 다양한 Attention 연구”, *방송공학회논문지 제25권 제6호*, July 2020'
   date: 2020
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
   pdf: 'http://www.kibme.org/resources/journal/20201216163518051.pdf'
-  
+
 - citation: 'Yong-Yuk Won, **Sang Min Yoon**, Dongsun Seo, “Reduction of optical beat inferference noise using statistical adaptive derivative equalizer,” *Optical Communications*, November 2020.'
   date: 2020
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
- 
+
 - citation: '**원용욱**, 윤상민, 서동선, “통계적 신호처리 기법을 이용한 광신호 전송기술 연구”, *한국광학회 하계학술대회*, July 2020'
   date: 2020
   image: '/static/assets/img/pub/blank.jpg'
@@ -113,19 +116,22 @@
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
   pdf: 'https://hci.myDS.me/sharing/OUzZDfirm'
-  
+
 - citation: '**정근호**, **윤상민** “Attention Model을 이용한 단안 영상 기반 깊이 추정 네트워크”, *한국방송・미디어공학회 하계학술대회*, July 2020'
   date: 2020
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
   pdf: 'https://hci.myDS.me/sharing/O0INoCMON'
-  
+
 - citation: '**문환복**, **윤상민** “Attention 모델을 이용한 단일 영상 초고해상도 복원 기술”, *한국방송・미디어공학회 하계학술대회*, July 2020, *[우수학생논문]*'
   date: 2020
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
   pdf: 'https://hci.myDS.me/sharing/N3iA42gWx'
-  
+  links:
+    - name: Source code
+      url: https://github.com/helloiwsy/Attention_SR
+
 - citation: 'Yong-Yuk Won, **Sang Min Yoon**, Dongsun Seo, “Improvement of optical fiber channel capacity using compressed non-orthogonal frequency quadrature amplitude modulation,” *Optical Fiber Technology*, February 2020.'
   date: 2020
   image: '/static/assets/img/pub/blank.jpg'
@@ -136,7 +142,7 @@
   date: 2020
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
-  
+
 
 - citation: '**문환복**, **윤상민**, “손실 함수 가중치 최적화 방법을 이용한 단일 영상 기반 초고해상도 복원”, *제32회 영상처리 및 이해에 관한 워크샵(IPIU)*. February 2020.'
   date: 2020
@@ -151,7 +157,7 @@
   links:
     - name: Source code
       url: https://github.com/decpearl/MonoID
-      
+
 - citation: '**Jinjoo Song**, Gangjoon Yoon, Kwangsoo Hahn, and **Sang Min Yoon**, “Subspace Clustering via Structure-enforced Dictionary Learning,” *Neurocomputing*, October 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
@@ -160,7 +166,7 @@
   links:
     - name: Source code
       url: https://github.com/decpearl/SSPCA_SC
- 
+
 - citation: '**Jungwoo Choi**, **Heeryon Cho**, **Jinjoo Song**, and **Sang Min Yoon**, “SketchHelper: Real-time Stroke Guidance for Freehand Sketch Retrieval,” *IEEE Transactions on Multimedia*, August 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
@@ -175,19 +181,19 @@
   image: '/static/assets/img/pub/blank.jpg'
   pdf: 'https://ieeexplore.ieee.org/document/8760469'
   pmid: TBD
-  
+
 - citation: 'Yong-Yuk Won, **Sang Min Yoon**, and Dongsun Seo, “Reduction of Amplified Spontaneous Emission Noise Using a Statistical Signal Adaptive Filter,” *Optical and Quantum Electronics*, April 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
   pdf: 'https://link.springer.com/article/10.1007/s11082-019-1844-6'
-  
+
 - citation: 'Sang Gook Kim, **Sang Min Yoon**, Maria Yang, **Jungwoo Choi**, Haluk Akay, and Edward Burnell, “AI for Design: Virtual Design Assistant,” *CIRP Annals Online*, April 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
   pdf: 'https://doi.org/10.1016/j.cirp.2019.03.024'
-  
+
 - citation: '**Heeryon Cho** and **Sang Min Yoon**, “Applying Singular Value Decomposition on Accelerometer Data for 1D Convolutional Neural Network Based Fall Detection,” *Electronics Letters*, March 2019.'
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
@@ -195,7 +201,7 @@
   pdf: 'https://www.growkudos.com/publications/10.1049%25252Fel.2018.6117/reader'
   links:
     - name: Source code
-      url: https://github.com/heeryoncho/SVD_applied_fall_detection 
+      url: https://github.com/heeryoncho/SVD_applied_fall_detection
 
 - citation: '**최정우**, **윤상민**, 박제성, 한광수, “단안 카메라 기반 실시간 3차원 사람 자세 인식을 통한 미디어 아트 기술”, *제31회 영상처리 및 이해에 관한 워크샵(IPIU)*. February 2019.'
   date: 2019
@@ -211,7 +217,7 @@
   date: 2019
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
-  
+
 - citation: 'Gangjoon Yoon, Hyeong Jae Hwang, and **Sang Min Yoon**, “Visual Object Tracking Using Structured Sparse PCA-Based Appearance Representation and Online Learning,” *Sensors*, October 2018.'
   date: 2018
   image: '/static/assets/img/pub/blank.jpg'
@@ -231,12 +237,12 @@
   date: 2018
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
-  
+
 - citation: 'Gangjoon Yoon and **Sang Min Yoon**, “Sketch-based 3D Object Recognition from Locally Optimized Sparse Features,” *Neurocomputing*, December 2017.'
   date: 2017
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
-  
+
 - citation: '**Song-Mi Lee**, **Heeryon Cho**, and **Sang Min Yoon**, “Statistical Noise Reduction for Robust Human Activity Recognition,” *IEEE MFI*, Novenmber 2017.'
   date: 2017
   image: '/static/assets/img/pub/blank.jpg'
@@ -251,17 +257,17 @@
   date: 2017
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
-  
+
 - citation: 'Han Wang, **Sang Min Yoon**, David K. Han, and Hanseok Ko, “A Feature Descriptor Based on the Local Patch Clustering Distribution for Illumination-robust Image Matching,” *Pattern Recognition Letters*, July 2017.'
   date: 2017
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
-  
+
 - citation: '**Heeryon Cho** and **Sang Min Yoon**, “Improving sentiment classification through distinct word selection,” *IEEE HSI*, July 2017. (BEST PAPER AWARD)'
   date: 2017
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
-  
+
 - citation: '**Jinjoo Song**, Gangjoon Yoon, and **Sang Min Yoon**, “Dimensionality Reduction of Nonlocal Means Image Denoising Using Structured Sparse Principle Component Analysis,” *ITC-CSCC*, July 2017.'
   date: 2017
   image: '/static/assets/img/pub/blank.jpg'
@@ -281,7 +287,7 @@
   date: 2017
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
-  
+
 - citation: 'Yong-Yuk Won, Dongsun Seo, and **Sang Min Yoon**, “Optical Access Transmission with Improved Channel Capacity Using Non-orthogonal Frequency Quadrature Amplitude Modulation,” *Optical Quantum Electronics*, February 2017.'
   date: 2017
   image: '/static/assets/img/pub/blank.jpg'
@@ -306,7 +312,7 @@
   date: 2016
   image: '/static/assets/img/pub/blank.jpg'
   pmid: TBD
-  
+
 - citation: '**Heeryon Cho** and **Sang Min Yoon**, “Feature Word Selection by Iterative Top-k Aggregation for Classifying Recommended Shops,” *IEEE ICTC*, October 2016.'
   date: 2016
   image: '/static/assets/img/pub/blank.jpg'
@@ -326,27 +332,27 @@
   date: 2015
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
-    
+
 - citation: '**Hyeong Jae Hwang** and **Sang Min Yoon**, “Single Image-based 3D Scene Estimation from Semantic Prior,” *Electronics letters*, October 2015.'
   date: 2015
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
-  
+
 - citation: '**Sang Min Yoon**, Gangjoon Yoon, **Jinjoo Song**, and Kwang-soo Hahn, “Simultaneous Detection of Pedestrians, Pose, and the Camera Viewpoint from 3D Models,” *IEEE ICTC*, October 2015.'
   date: 2015
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
- 
+
 - citation: 'Yong-Yuk Won and **Sang Min Yoon**, “Orthogonal Frequency Division Multiplexed Passive Optical Access Transmission with Improved Transmission Capacity by the use of Adaptive Sampling based on Compressive Sensing,” *IEEE ICTC*, October 2015.'
   date: 2015
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
- 
+
 - citation: 'Yong-Yuk Won and **Sang Min Yoon**, “Improvement of Transmission Capacity in Optical Orthogonal Frequency Division Multiplexed Access Link using an Adaptive Sampling and L1 Minimization," *Optical and Quantum Electronics*, August 2015.'
   date: 2015
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
-    
+
 - citation: '**Sang Min Yoon**, Gang-Joon Yoon, and Tobias Schreck, “User-drawn Sketch-based 3D Object Retrieval Using Sparse Coding,” *Multimedia Tools and Applications*, July 2015.'
   date: 2015
   image: '/static/assets/img/pub/blank.jpg'
@@ -396,7 +402,7 @@
   date: 2013
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
-  
+
 - citation: '**Sang Min Yoon** and Gangjoon Yoon “Optimized Hybrid Shape Descriptor-based 3D Object Retrieval,” *IEEE ICIP*, September 2013.'
   date: 2013
   image: '/static/assets/img/pub/blank.jpg'
@@ -416,7 +422,7 @@
   date: 2012
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
-  
+
 - citation: '**Sang Min Yoon** and Jae-Ho Han, “Motion Analysis of Magnetic Resonance Angiography Image in Diffusion Tensor Fields,” *IEEE Sensors Journal*, August 2012.'
   date: 2012
   image: '/static/assets/img/pub/blank.jpg'
@@ -426,12 +432,12 @@
   date: 2012
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
-  
+
 - citation: 'Hiroyouki Kakara, Yoshifumi Nishida, **Sang Min Yoon**, Yosuke Miyazaki, Horishi Mizoguchi, and Tatsuhiro Yamanaka, “Development of Database on Daily Living Activities for Realistic Biomechanical Simulation,” *AHFE*, July 2012.'
   date: 2012
   image: '/static/assets/img/pub/blank.jpg'
   pmid: tbd
-  
+
 - citation: '**Sang Min Yoon**, Tobias Schreck, and Gang-Joon Yoon “Sparse Coding Based Feature Optimisation for Robust 3D Object Retrieval,” *Electronics Letters*, April 2012.'
   date: 2012
   image: '/static/assets/img/pub/blank.jpg'
