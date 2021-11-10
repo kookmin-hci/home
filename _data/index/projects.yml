@@ -2,29 +2,29 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: 김선필 현대자동차 연구장학생 합격
-  i18n: 
-  gh_user: 
-  repo: 
+  i18n:
+  gh_user:
+  repo:
   img: /static/assets/img/landing/spkim_hyundai.png
   desc: 김선필 학생이 현대자동차 자율주행 소프트웨어 개발 분야(2023년 입사 예정)의 연구장학생으로 선발되었습니다. 축하합니다.
-  
+
 - name: Computational Large Field-of-View RGB-D Integral Imaging System
-  i18n: 
-  gh_user: 
-  repo:  
+  i18n:
+  gh_user:
+  repo:
   img: /static/assets/img/landing/geunho_sensors.png
-  desc: Geunho Jung, Yong-Yuk Won, and Sang Min Yoon, "Computational Large Field-of-View RGB-D Integral Imaging System," Sensors, Nov 2021. 
+  desc: Geunho Jung, Yong-Yuk Won, and Sang Min Yoon, "Computational Large Field-of-View RGB-D Integral Imaging System," Sensors, Nov 2021.
 
 - name: Texture Preserving Photo Style Transfer Network
-  i18n: 
+  i18n:
   gh_user: decpearl
-  repo: 
+  repo:
   img: /static/assets/img/landing/style_transfer.png
   desc: Hwanbok Mun, Gang-Joon Yoon, Jinjoo Song, and Sang Min Yoon, "Texture Preserving Photo Style Transfer Network," IEEE transactions on Multimedia, Aug 2021.
 
 
 - name: Subspace clustering via structure-enforced dictionary learning
-  i18n: 
+  i18n:
   gh_user: decpearl
   repo: SSPCA_SC
   img: /static/assets/img/landing/SSC.png
@@ -38,21 +38,21 @@
   desc: Jungwoo Choi, Heeryon Cho, Jinjoo Song, and Sang Min Yoon, "SketchHelper&#58; Real-time Stroke Guidance for Freehand Sketch Retrieval," IEEE Transactions on Multimedia, 2019.
 
 - name: Deep self-representative subspace clustering network
-  i18n: 
-  gh_user: 
-  repo: Attention_SR
+  i18n:
+  gh_user: sangwon1338
+  repo: Deep_subspace_clustering_Network_pytroch
   img: /static/assets/img/landing/network.png
   desc: Sangwon Baek, Gangjoon Yoon, Jinjoo Song, SangMin Yoon, “Deep self-representative subspace clustering network”, Pattern Recognition, October 2021
-  
+
 - name: Structure Adaptive Total Variation Minimization-based Image Decomposition
-  i18n: 
+  i18n:
   gh_user: decpearl
   repo: satv
   img: /static/assets/img/landing/starry_night.png
   desc: Jinjoo Song, Heeryon Cho, Jungho Yoon, and Sang Min Yoon, "Structure Adaptive Total Variation Minimization-based Image Decomposition," IEEE Transactions on Circuits and Systems for Video Technology, Vol.28, No.9, pp. 2164-2176, September 2018.
-  
+
 - name: Divide and Conquer-based 1D CNN Human Activity Recognition Using Test Data Sharpening
-  i18n: 
+  i18n:
   gh_user: heeryoncho
   repo: sensors2018cnnhar
   img: /static/assets/img/landing/sensors2018.png
