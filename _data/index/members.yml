@@ -28,33 +28,33 @@
   cv: # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
 
-- last_name: Jung
-  first_name: Geunho
-  avatar: /static/assets/img/landing/jung.jpg  # upload your avatar at directory and edit it.
-  position: Master's Student
-  desc:
-  website:
-  email: ehwk9200@kookmin.ac.kr  # Leave blank if you don't have now
-  github_username: jgnooo   # Leave blank if you don't have now
-  linkedin_id:   # Leave blank if you don't have now
-  facebook_username:  # Leave blank if you don't have now
-  twitter_username:  # Leave blank if you don't have now
-  cv: # An online CV can be printed as PDF, leave blank if you don't have now
-  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
+# - last_name: Jung
+#   first_name: Geunho
+#   avatar: /static/assets/img/landing/jung.jpg  # upload your avatar at directory and edit it.
+#   position: Master's Student
+#   desc:
+#   website:
+#   email: ehwk9200@kookmin.ac.kr  # Leave blank if you don't have now
+#   github_username: jgnooo   # Leave blank if you don't have now
+#   linkedin_id:   # Leave blank if you don't have now
+#   facebook_username:  # Leave blank if you don't have now
+#   twitter_username:  # Leave blank if you don't have now
+#   cv: # An online CV can be printed as PDF, leave blank if you don't have now
+#   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
 
-- last_name: Baek
-  first_name: Sangwon
-  avatar: /static/assets/img/landing/baek.jpeg  # upload your avatar at directory and edit it.
-  position: Master's Student
-  desc:
-  website:
-  email: korca202@gmail.com  # Leave blank if you don't have now
-  github_username: korca2002   # Leave blank if you don't have now
-  linkedin_id:   # Leave blank if you don't have now
-  facebook_username:  # Leave blank if you don't have now
-  twitter_username:  # Leave blank if you don't have now
-  cv: # An online CV can be printed as PDF, leave blank if you don't have now
-  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
+# - last_name: Baek
+#   first_name: Sangwon
+#   avatar: /static/assets/img/landing/baek.jpeg  # upload your avatar at directory and edit it.
+#   position: Master's Student
+#   desc:
+#   website:
+#   email: korca202@gmail.com  # Leave blank if you don't have now
+#   github_username: korca2002   # Leave blank if you don't have now
+#   linkedin_id:   # Leave blank if you don't have now
+#   facebook_username:  # Leave blank if you don't have now
+#   twitter_username:  # Leave blank if you don't have now
+#   cv: # An online CV can be printed as PDF, leave blank if you don't have now
+#   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
 
 - last_name: Kim
   first_name: Sunphill
@@ -70,19 +70,19 @@
   cv: # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
 
-- last_name: Kim
-  first_name: Myungjin
-  avatar: /static/assets/img/landing/kmj.jpg   # upload your avatar at directory and edit it.
-  position: Master's Student
-  desc:
-  website:
-  email: audwlsdl1729@gmail.com  # Leave blank if you don't have now
-  github_username: kmj-audwls   # Leave blank if you don't have now
-  linkedin_id:   # Leave blank if you don't have now
-  facebook_username:  # Leave blank if you don't have now
-  twitter_username:  # Leave blank if you don't have now
-  cv: # An online CV can be printed as PDF, leave blank if you don't have now
-  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
+# - last_name: Kim
+#   first_name: Myungjin
+#   avatar: /static/assets/img/landing/kmj.jpg   # upload your avatar at directory and edit it.
+#   position: Master's Student
+#   desc:
+#   website:
+#   email: audwlsdl1729@gmail.com  # Leave blank if you don't have now
+#   github_username: kmj-audwls   # Leave blank if you don't have now
+#   linkedin_id:   # Leave blank if you don't have now
+#   facebook_username:  # Leave blank if you don't have now
+#   twitter_username:  # Leave blank if you don't have now
+#   cv: # An online CV can be printed as PDF, leave blank if you don't have now
+#   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
 
 - last_name: Lee
   first_name: Jaebin
@@ -126,19 +126,19 @@
   cv: # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
 
-- last_name: Jo
-  first_name: Nayoung
-  avatar: /static/assets/img/landing/nayoung.jpg # upload your avatar at directory and edit it.
-  position: undergraduate's Student
-  desc:
-  website:
-  email: jny2253@kookmin.ac.kr # Leave blank if you don't have now
-  github_username: NaYoung2253   # Leave blank if you don't have now
-  linkedin_id:   # Leave blank if you don't have now
-  facebook_username:  # Leave blank if you don't have now
-  twitter_username:  # Leave blank if you don't have now
-  cv: # An online CV can be printed as PDF, leave blank if you don't have now
-  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
+# - last_name: Jo
+#   first_name: Nayoung
+#   avatar: /static/assets/img/landing/nayoung.jpg # upload your avatar at directory and edit it.
+#   position: undergraduate's Student
+#   desc:
+#   website:
+#   email: jny2253@kookmin.ac.kr # Leave blank if you don't have now
+#   github_username: NaYoung2253   # Leave blank if you don't have now
+#   linkedin_id:   # Leave blank if you don't have now
+#   facebook_username:  # Leave blank if you don't have now
+#   twitter_username:  # Leave blank if you don't have now
+#   cv: # An online CV can be printed as PDF, leave blank if you don't have now
+#   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
 
 - last_name: Jang
   first_name: Minhyuk
