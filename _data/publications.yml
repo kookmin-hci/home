@@ -58,7 +58,16 @@
 #      url: 'https://www.schrodinger.com'
 #    - name: 'Paper Submission Celebration Photo'
 #      url: 'https://twitter.com/fraser_lab/status/956318642454474752'
-
+- citation: 'Geunho Jung, **Sang Min Yoon** "Monocular depth estimation with multi-view attention autoencoder", *Multimedia Tools and Applications*, April 2022'
+  date: 2022
+  image: '/static/assets/img/pub/blank.jpg'
+  pdf: 'https://link.springer.com/article/10.1007/s11042-022-12301-8'
+  
+- citation: 'Gang-Joon Yoon, **Jinjoo Song**, Yu-Jin Hong, **Sang Min Yoon** "Single Image Based Three-Dimensional Scene Reconstruction using Semantic and Geometric Priors", *Neural Processing Letters*, March 2022'
+  date: 2022
+  image: '/static/assets/img/pub/blank.jpg'
+  pdf: 'https://link.springer.com/article/10.1007/s11063-022-10780-2'
+  
 - citation: '**Geunho Jung**, Yong-Yuk Won, **Sang Min Yoon** "Computational large field-of-view RGB-D integral imaging system", *Sensors*, November 2021'
   date: 2021
   image: '/static/assets/img/pub/blank.jpg'
