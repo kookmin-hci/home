@@ -153,7 +153,7 @@
   twitter_username:  # Leave blank if you don't have now
   cv: # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
- 
+
 - last_name: Heo
   first_name: Jieun
   avatar: /static/assets/img/landing/heoje.jpg # upload your avatar at directory and edit it.
@@ -161,15 +161,15 @@
   desc:
   website:
   email: jieunheo192@kookmin.ac.kr # Leave blank if you don't have now
-  github_username:  # Leave blank if you don't have now
+  github_username: Heo-jieun # Leave blank if you don't have now
   linkedin_id:   # Leave blank if you don't have now
   facebook_username:  # Leave blank if you don't have now
   twitter_username:  # Leave blank if you don't have now
   cv: # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
-  
-  
-    
+
+
+
 - last_name: Park
   first_name: Byeonggyu
   avatar: /static/assets/img/landing/parkbk.jpg # upload your avatar at directory and edit it.
@@ -183,8 +183,8 @@
   twitter_username:  # Leave blank if you don't have now
   cv: # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
-  
-   
+
+
 - last_name: Hwang
   first_name: Yeieun
   avatar: /static/assets/img/landing/hwangye.jpg # upload your avatar at directory and edit it.
