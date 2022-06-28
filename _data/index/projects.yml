@@ -8,12 +8,12 @@
   img: /static/assets/img/landing/spkim_hyundai.png
   desc: 김선필 학생이 현대자동차 자율주행 소프트웨어 개발 분야(2023년 입사 예정)의 연구장학생으로 선발되었습니다. 축하합니다.
 
-- name: Computational Large Field-of-View RGB-D Integral Imaging System
+- name: Multi-View Feature Boosting Network for Deep Subspace Clustering
   i18n:
   gh_user:
   repo:
-  img: /static/assets/img/landing/geunho_sensors.png
-  desc: Geunho Jung, Yong-Yuk Won, and Sang Min Yoon, "Computational Large Field-of-View RGB-D Integral Imaging System," Sensors, Nov 2021.
+  img: /static/assets/img/landing/icip.png
+  desc: Jinjoo Song, Gang-Joon Yoon, Sangwon Baek, and Sang Min Yoon, "Multi-View Feature Boosting Network for Deep Subspace Clustering," IEEE ICIP, Oct 2021.
 
 - name: Texture Preserving Photo Style Transfer Network
   i18n:
