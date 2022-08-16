@@ -1,26 +1,26 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: 김선필 현대자동차 연구장학생 합격
+- name: Self-supervised deep geometric subspace clustering network
   i18n:
-  gh_user:
-  repo:
-  img: /static/assets/img/landing/spkim_hyundai.png
-  desc: 김선필 학생이 현대자동차 자율주행 소프트웨어 개발 분야(2023년 입사 예정)의 연구장학생으로 선발되었습니다. 축하합니다.
+  gh_user:sangwon1338
+  repo:gae-pytorch
+  img: /static/assets/img/landing/infoscience_2022.png
+  desc: Sangwon Baek, Gangjoon Yoon, Jinjoo Song, and Sang Min Yoon, "Self-supervised deep geometric subspace clustering network," Information Sciences, Sep 2022.
 
 - name: Multi-View Feature Boosting Network for Deep Subspace Clustering
   i18n:
   gh_user:
   repo:
   img: /static/assets/img/landing/icip.png
-  desc: Jinjoo Song, Gang-Joon Yoon, Sangwon Baek, and Sang Min Yoon, "Multi-View Feature Boosting Network for Deep Subspace Clustering," IEEE ICIP, Oct 2021.
+  desc: Jinjoo Song, Gang-Joon Yoon, Sangwon Baek, and Sang Min Yoon, "Multi-View Feature Boosting Network for Deep Subspace Clustering," IEEE ICIP, Oct 2022.
 
 - name: Texture Preserving Photo Style Transfer Network
   i18n:
   gh_user: decpearl
   repo:
   img: /static/assets/img/landing/style_transfer.png
-  desc: Hwanbok Mun, Gang-Joon Yoon, Jinjoo Song, and Sang Min Yoon, "Texture Preserving Photo Style Transfer Network," IEEE transactions on Multimedia, Aug 2021.
+  desc: Hwanbok Mun, Gang-Joon Yoon, Jinjoo Song, and Sang Min Yoon, "Texture Preserving Photo Style Transfer Network," IEEE transactions on Multimedia, Aug 2022.
 
 
 - name: Subspace clustering via structure-enforced dictionary learning
