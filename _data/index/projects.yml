@@ -7,7 +7,7 @@
   repo: gae-pytorch
   img: /static/assets/img/landing/infoscience_2022.png
   desc: Sangwon Baek, Gangjoon Yoon, Jinjoo Song, and Sang Min Yoon, "Self-supervised deep geometric subspace clustering network," Information Sciences, Sep 2022.
-
+  
 - name: Multi-View Feature Boosting Network for Deep Subspace Clustering
   i18n:
   gh_user:
@@ -21,7 +21,6 @@
   repo:
   img: /static/assets/img/landing/style_transfer.png
   desc: Hwanbok Mun, Gang-Joon Yoon, Jinjoo Song, and Sang Min Yoon, "Texture Preserving Photo Style Transfer Network," IEEE transactions on Multimedia, Aug 2022.
-
 
 - name: Subspace clustering via structure-enforced dictionary learning
   i18n:
