@@ -10,8 +10,8 @@
   
 - name: Multi-View Feature Boosting Network for Deep Subspace Clustering
   i18n:
-  gh_user:
-  repo:
+  gh_user: sangwon1338
+  repo: Deep_self-representation_Subspace_clustering
   img: /static/assets/img/landing/icip.png
   desc: Jinjoo Song, Gang-Joon Yoon, Sangwon Baek, and Sang Min Yoon, "Multi-View Feature Boosting Network for Deep Subspace Clustering," IEEE ICIP, Oct 2022.
 
