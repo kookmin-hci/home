@@ -215,7 +215,7 @@
 
 - last_name: Lim
   first_name: Hyeonjin
-  avatar: /static/assets/img/landing/hj_Lim.JPG # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/hj_Lim.jpg # upload your avatar at directory and edit it.
   position: undergraduate's Student
   desc:
   website:
