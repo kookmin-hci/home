@@ -58,6 +58,27 @@
 #      url: 'https://www.schrodinger.com'
 #    - name: 'Paper Submission Celebration Photo'
 #      url: 'https://twitter.com/fraser_lab/status/956318642454474752'
+- citation: 'Yong-Yuk Won, **Sang Min Yoon** "Simultaneous optical access transmission of sparse local sampled discrete multitone and on-off keying signal using L1-minimization and adaptive subtractive differential equalization", *Optical Fiber Technology*, December 2022'
+  date: 2022
+  image: '/static/assets/img/pub/blank.jpg'
+  pdf: 'https://www.sciencedirect.com/science/article/pii/S1068520022003248'
+  
+  - citation: '**Yoonjae Lee**, **Sang Min Yoon** "Convolutional Neural Radience Field", *IEEE/IEIE ICCE-Asia 2022*, October 2022'
+  date: 2022
+  image: '/static/assets/img/pub/blank.jpg'
+  #pdf: 'https://www.sciencedirect.com/science/article/pii/S1068520022003248'
+  
+  - citation: '**JaeBin Lee**, **Jinjoo Song**, **Sang Min Yoon** "Adaptively reduced multiplane layers", *IEEE/IEIE ICCE-Asia 2022*, October 2022'
+  date: 2022
+  image: '/static/assets/img/pub/blank.jpg'
+  #pdf: 'https://www.sciencedirect.com/science/article/pii/S1068520022003248'
+  
+  - citation: 'Yong-Yuk Won, **Sang Min Yoon** "Simultaneous optical access transmission of sparse local sampled discrete multitone and on-off keying signal using L1-minimization and adaptive subtractive differential equalization", *Optical Fiber Technology*, December 2022'
+  date: 2022
+  image: '/static/assets/img/pub/blank.jpg'
+  pdf: 'https://www.sciencedirect.com/science/article/pii/S1068520022003248'
+  
+
 - citation: '**Sangwon Baek**, Gang-Joon Yoon, **Jinjoo Song**, **Sang Min Yoon** "Self-supervised deep geometric subspace clustering network", *Information Sciences*, September 2022'
   date: 2022
   image: '/static/assets/img/pub/blank.jpg'
