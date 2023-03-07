@@ -84,7 +84,7 @@
   cv: # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   
-  last_name: Ndayishimiye
+- last_name: Ndayishimiye
   first_name: Fabrice
   avatar: /static/assets/img/landing/Fab_passport_pic.jpg # upload your avatar at directory and edit it.
   position: Researcher
