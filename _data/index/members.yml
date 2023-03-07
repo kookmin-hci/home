@@ -86,7 +86,7 @@
   
   last_name: Ndayishimiye
   first_name: Fabrice
-  avatar: /static/assets/img/landing/ # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/Fab_passport_pic.jpg # upload your avatar at directory and edit it.
   position: Researcher
   desc:
   website:
