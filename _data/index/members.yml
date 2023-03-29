@@ -84,7 +84,7 @@
   cv: # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   
-  - last_name: Stepanova
+- last_name: Stepanova
   first_name: Anna
   avatar: /static/assets/img/landing/anna.jpg # upload your avatar at directory and edit it.
   position: Master's Student
