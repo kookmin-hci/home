@@ -6,7 +6,7 @@
   i18n:
   gh_user: kyomin Hwang
   repo: Fusing-Bi-directional-Global-Local-Features-for-Single-Image-Super-Resolution
-  img: /static/assets/img/landing/super_resolution_2023.png
+  img: /static/assets/img/landing/super-resolution_2023.png
   desc: Kymin Hwang, Gang-Joon Yoon, Jinjoo Song and Sang Min Yoon, "Fusing-Bi-directional-Global-Local-Features-for-Single-Image-Super-Resolution" January 2024.
   
 - name: Quantum Computing
