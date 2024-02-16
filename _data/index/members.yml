@@ -84,7 +84,7 @@
   cv: # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
 
-  - last_name: Choi
+- last_name: Choi
   first_name: SeYoung
   avatar: /static/assets/img/landing/seyoung.jpg # upload your avatar at directory and edit it.
   position: Master's Student
