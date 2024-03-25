@@ -8,21 +8,21 @@
   repo: Fusing-Bi-directional-Global-Local-Features-for-Single-Image-Super-Resolution
   img: /static/assets/img/landing/super-resolution_2023.png
   desc: Kyomin Hwang, Gang-Joon Yoon, Jinjoo Song and Sang Min Yoon, "Fusing-Bi-directional-Global-Local-Features-for-Single-Image-Super-Resolution," Enginneering Application of Artificial Intelligence, January 2024.
-  
+
 - name: Quantum Computing
   i18n:
   gh_user: ksm999
   repo: QuantumComputing
   img: /static/assets/img/landing/QuantumComputing.png
   desc: Sun Min Kim and Sang Min Yoon, "Quantum Computing Project" August 2023.
-  
+
 - name: Self-supervised deep geometric subspace clustering network
   i18n:
   gh_user: sangwon1338
   repo: gae-pytorch
   img: /static/assets/img/landing/infoscience_2022.png
   desc: Sangwon Baek, Gangjoon Yoon, Jinjoo Song, and Sang Min Yoon, "Self-supervised deep geometric subspace clustering network," Information Sciences, Sep 2022.
-  
+
 - name: Multi-View Feature Boosting Network for Deep Subspace Clustering
   i18n:
   gh_user: sangwon1338
@@ -71,4 +71,3 @@
   repo: sensors2018cnnhar
   img: /static/assets/img/landing/sensors2018.png
   desc: Heeryon Cho and Sang Min Yoon, "Divide and Conquer-based 1D CNN Human Activity Recognition Using Test Data Sharpening," Sensors, Vol.18, No.4, pp. 1055:1-1055:24, April 2018.
-  
