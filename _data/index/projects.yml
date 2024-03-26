@@ -14,7 +14,7 @@
   gh_user: ksm999
   repo: QuantumComputing
   img: /static/assets/img/landing/QuantumComputing.png
-  desc: Sun Min Kim and Sang Min Yoon, "Quantum Computing Project" August 2023.                                                                                                                                          
+  desc: Sun Min Kim and Sang Min Yoon, "Quantum Computing Project" August 2023.<br /><br />
 
 - name: Self-supervised deep geometric subspace clustering network
   i18n:
