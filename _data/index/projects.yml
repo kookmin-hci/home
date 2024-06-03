@@ -2,6 +2,13 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
+- name: Unified spatio-temporal attention mixformer for visual object tracking
+  i18n:
+  gh_user:
+  repo:
+  img: /static/assets/img/landing/minho_network.png
+  desc: Minho Park, Gang-Joon Yoon, Jinjoo  Song, and Sang Min Yoon, "Unified spatio-temporal attention mixformer for visual object tracking", Engineering Applications of Artificial Intelligence, May 2024.
+
 - name: Fusing bi-directional global–local features for single image super-resolution
   i18n:
   gh_user: kyominHwang
