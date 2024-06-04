@@ -7,7 +7,7 @@
   gh_user: qkdkralsgh
   repo: USTAM
   img: /static/assets/img/landing/minho_network.png
-  desc: Minho Park, Gang-Joon Yoon, Jinjoo  Song, and Sang Min Yoon, "Unified spatio-temporal attention mixformer for visual object tracking", Engineering Applications of Artificial Intelligence, May 2024.
+  desc: Minho Park, Gang-Joon Yoon, Jinjoo  Song, and Sang Min Yoon, "Unified spatio-temporal attention mixformer for visual object tracking", Engineering Applications of Artificial Intelligence, August 2024.
 
 - name: Fusing bi-directional global–local features for single image super-resolution
   i18n:
