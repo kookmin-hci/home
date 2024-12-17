@@ -2,6 +2,13 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
+- name: Person re-identification transformer with patch attention and pruning
+  i18n:
+  gh_user: 
+  repo: 
+  img: /static/assets/img/landing/fabrice.png
+  desc: Fabrice Ndayishimiye, Gang-Joon Yoon, Joonjae Lee, and Sang Min Yoon, "Person re-identification transformer with patch attention and pruning", Journal of Visual Communication and Image Representation, November 2024.
+
 - name: Unified spatio-temporal attention mixformer for visual object tracking
   i18n:
   gh_user: qkdkralsgh

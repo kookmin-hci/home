@@ -59,6 +59,19 @@
 #    - name: 'Paper Submission Celebration Photo'
 #      url: 'https://twitter.com/fraser_lab/status/956318642454474752'
 
+- citation: '**한희태**, **윤상민** “동적 마스킹 다중 스케일 복셀 기반 자기 지도 학습을 통한 3차원 객체 검출 기술”, *대한전자공학회 추계학술대회 논문집 556-559*, November 2024'
+  date: 2024
+  image: '/static/assets/img/pub/blank.jpg'
+  pmid: TBD
+  pdf: ''
+
+
+- citation: '**김선민**, **윤상민** “양방향처리가 가능한 양자영상처리 기술”, *대한전자공학회 추계학술대회 논문집 552-555*, November 2024'
+  date: 2024
+  image: '/static/assets/img/pub/blank.jpg'
+  pmid: TBD
+  pdf: ''
+
 - citation: 'Sunpil Kim, Gang-Joon Yoon, **Jinjoo Song**, **Sang Min Yoon** "Simultaneous image patch attention and pruning for patch selective transformer", *Image and Vision Computing*, October 2024'
   date: 2024
   image: '/static/assets/img/pub/blank.jpg'
