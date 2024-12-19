@@ -28,21 +28,21 @@
   gh_user: ksm999
   repo: QuantumComputing
   img: /static/assets/img/landing/QuantumComputing.png
-  desc: Sun Min Kim and Sang Min Yoon, Quantum image processing with stereographic projection method and novel RGB color space August 2023.
+  desc: Sun Min Kim and Sang Min Yoon, Quantum image processing with stereographic projection method and novel RGB color space August 2023.  <br /> <br /> <br />
 
 - name: Self-supervised deep geometric subspace clustering network
   i18n:
   gh_user: sangwon1338
   repo: gae-pytorch
   img: /static/assets/img/landing/infoscience_2022.png
-  desc: Sangwon Baek, Gangjoon Yoon, Jinjoo Song, and Sang Min Yoon, "Self-supervised deep geometric subspace clustering network," Information Sciences, Sep 2022.
+  desc: Sangwon Baek, Gangjoon Yoon, Jinjoo Song, and Sang Min Yoon, "Self-supervised deep geometric subspace clustering network," Information Sciences, Sep 2022. <br /> <br /> <br />
 
 - name: Multi-View Feature Boosting Network for Deep Subspace Clustering
   i18n:
   gh_user: sangwon1338
   repo: Deep_self-representation_Subspace_clustering
   img: /static/assets/img/landing/icip.png
-  desc: Jinjoo Song, Gang-Joon Yoon, Sangwon Baek, and Sang Min Yoon, "Multi-View Feature Boosting Network for Deep Subspace Clustering," IEEE ICIP, Oct 2022.
+  desc: Jinjoo Song, Gang-Joon Yoon, Sangwon Baek, and Sang Min Yoon, "Multi-View Feature Boosting Network for Deep Subspace Clustering," IEEE ICIP, Oct 2022.  <br /> <br /> <br />
 
 - name: Texture Preserving Photo Style Transfer Network
   i18n:
