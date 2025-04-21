@@ -64,7 +64,7 @@
   image: '/static/assets/img/pub/blank.jpg'
   pdf: 'https://www.mdpi.com/2304-6732/12/4/395'
 
-- citation: '**Minho Park**, **Jinjoo Song**, **Sang Min Yoon** "SVisual object tracking using learnable target-aware token emphasis", *Engineering Applications of Artificial Intelligence*, June 2025'
+- citation: '**Minho Park**, **Jinjoo Song**, **Sang Min Yoon** "Visual object tracking using learnable target-aware token emphasis", *Engineering Applications of Artificial Intelligence*, June 2025'
   date: 2025
   image: '/static/assets/img/pub/blank.jpg'
   pdf: 'https://www.sciencedirect.com/science/article/pii/S0952197625004828'
