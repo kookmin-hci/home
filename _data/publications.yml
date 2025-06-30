@@ -59,10 +59,15 @@
 #    - name: 'Paper Submission Celebration Photo'
 #      url: 'https://twitter.com/fraser_lab/status/956318642454474752'
 
-- citation: '**Minho Park**, **Jinjoo Song**, **Sang Min Yoon** "Visual object tracking using learnable target-aware token emphasis", *Engineering Applications of Artificial Intelligence*, June 2025'
+- citation: '**HyeWon Hwang**, **Sang Min Yoon** "Skip-VMamba 기반 사람 재식별 기술 개발", *한국방송·미디어공학회 하계학술대회*, June 2025'
   date: 2025
   image: '/static/assets/img/pub/blank.jpg'
-  pdf: 'https://www.sciencedirect.com/science/article/pii/S0952197625004828'
+  pdf: ''
+
+- citation: '**YeBae Son**, **Sang Min Yoon** "시공간 정보를 활용한 Vision Mamba 기반 물체 추적 기술", *한국방송·미디어공학회 하계학술대회*, June 2025'
+  date: 2025
+  image: '/static/assets/img/pub/blank.jpg'
+  pdf: ''
   
 - citation: 'Yong-Yuk Won, **Heetae Han**, Dongmin Choi, **Sang Min Yoon** "Enhancement of Optical Wireless Discrete Multitone Channel Capacity Based on Li-Fi Using Sparse Coded Mask Modeling", *Photonics*, April 2025'
   date: 2025
