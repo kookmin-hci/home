@@ -7,18 +7,18 @@
   gh_user: 
   repo: 
   #img: /static/assets/img/landing/award_2025_2.png
-  img: /static/assets/img/landing/award2.jpg
+  img: /static/assets/img/landing/award2_1.jpg
   desc: DaeHo Jo, 서울장학재단, June 2025 
-  img_size: 10
+  #img_size: 10
 
 - name: 한국방송·미디어공학회 하계학술대회 최우수상
   i18n:
   gh_user: 
   repo: 
   #img: /static/assets/img/landing/award_2025_1.png
-  img: /static/assets/img/landing/award1.jpg
+  img: /static/assets/img/landing/award1_1.jpg
   desc: HyeWon Hwang, Sang Min Yoon, Skip-VMamba 기반 사람 재식별 기술 개발, 한국방송·미디어공학회 하계학술대회, June 2025
-  img_size: 10
+  #img_size: 10
 
 - name: Person re-identification transformer with patch attention and pruning
   i18n:
