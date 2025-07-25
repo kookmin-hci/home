@@ -18,6 +18,9 @@
             <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %}">
             {% endif %}
               <div class="team-member">
+                {% if project.img_size %}
+                   <img src="{{ project.img | prepend: site.baseurl }}" class="img-responsive img-middle" style="max-width: 300px; height: auto;" alt="">
+                {% else %}
                   <img src="{{ project.img | prepend: site.baseurl }}" class="img-responsive img-middle" alt="">
                   <h4>
                   {% if project.url %}

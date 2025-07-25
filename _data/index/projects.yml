@@ -16,7 +16,7 @@
   repo: 
   img: /static/assets/img/landing/award_2025_1.png
   desc: HyeWon Hwang, Sang Min Yoon, Skip-VMamba 기반 사람 재식별 기술 개발, 한국방송·미디어공학회 하계학술대회, June 2025
-
+  img_size: 10
 
 - name: Person re-identification transformer with patch attention and pruning
   i18n:
