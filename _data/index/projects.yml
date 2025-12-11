@@ -25,7 +25,7 @@
   gh_user: 
   repo: 
   img: /static/assets/img/landing/stereo.png
-  desc: SeonMin Kim, Gang-Joon Yoon, Jinjoo Song, and Sang Min Yoon, "Scalable feed-forward and backward quantum image representation", Engineering Applications of Artificial Intelligence, December 2025.
+  desc: SeonMin Kim, Gang-Joon Yoon, Jinjoo Song, and Sang Min Yoon, "Scalable feed-forward and backward quantum image representation", Engineering Applications of Artificial Intelligence, February 2026.
 
 
 - name: Person re-identification transformer with patch attention and pruning
