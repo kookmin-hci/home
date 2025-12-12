@@ -22,8 +22,8 @@
 
 - name: Scalable feed-forward and backward quantum image representation
   i18n:
-  gh_user: 
-  repo: 
+  gh_user: ksm999
+  repo: Stereo
   img: /static/assets/img/landing/stereo.png
   desc: SeonMin Kim, Gang-Joon Yoon, Jinjoo Song, and Sang Min Yoon, "Scalable feed-forward and backward quantum image representation", Engineering Applications of Artificial Intelligence, February 2026.
 
