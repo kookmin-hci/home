@@ -56,20 +56,6 @@
   cv: # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
 
-- last_name: Son
-  first_name: YeBae
-  avatar: /static/assets/img/landing/yebae.jpg # upload your avatar at directory and edit it.
-  position: Master's Student
-  desc:
-  website:
-  email: worship1204@kookmin.ac.kr # Leave blank if you don't have now
-  github_username: YeBae-Son   # Leave blank if you don't have now
-  linkedin_id:   # Leave blank if you don't have now
-  facebook_username:  # Leave blank if you don't have now
-  twitter_username:  # Leave blank if you don't have now
-  cv: # An online CV can be printed as PDF, leave blank if you don't have now
-  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
-
 - last_name: Shin
   first_name: GyuBin
   avatar: /static/assets/img/landing/GyuBin.jpg # upload your avatar at directory and edit it.
