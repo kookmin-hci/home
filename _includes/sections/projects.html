@@ -5,19 +5,19 @@
             <h1><span data-i18n="projects.my_projects">Research</span></h1>
         </div>
     </div>
-    <div class="row">
+    <div class="row project-grid">
         {% for project in site.data.index.projects %}
             {% assign loopindex = forloop.index | modulo: 2 %}
             {% if forloop.last %}
                 {% if forloop.last == forloop.first %}
-            <div class="col-sm-6 wow col-sm-offset-3 zoomIn">
+            <div class="col-sm-6 wow col-sm-offset-3 zoomIn project-card">
                 {% else %}
-            <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft col-sm-offset-3 {% else %} fadeInRight {% endif %}">
+            <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft col-sm-offset-3 {% else %} fadeInRight {% endif %} project-card">
                 {% endif %}
             {% else %}
-            <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %}">
+            <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %} project-card">
             {% endif %}
-              <div class="team-member">
+              <div class="team-member project-member">
                 {% if project.img_size %}
                 <img src="{{ project.img | prepend: site.baseurl }}" class="img-responsive img-middle" style="max-width: 250px; height: 200px;" alt="">
                 {% else %}
@@ -39,9 +39,14 @@
                       <a target="_blank" style="width: 65px;" href="https://github.com/{{ project.gh_user }}/{{ project.repo }}/network" class="btn btn-white btn-xs fork"><i class="fa fa-code-fork"></i> ...</a>
                       <div style="height: 10px;"></div>
                   </div>
+                  {% else %}
+                  <div class="ghbtn ghbtn-placeholder" aria-hidden="true"></div>
                   {% endif %}
               </div>
           </div>
+          {% if loopindex == 0 %}
+          <div class="clearfix visible-sm-block visible-md-block visible-lg-block"></div>
+          {% endif %}
       {% endfor %}
     </div>
 </div>

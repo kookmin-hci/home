@@ -2627,6 +2627,17 @@ body {
       margin: auto;
     }
   }
+  .project-grid {
+    .project-card {
+      margin-bottom: 30px;
+    }
+    .project-member {
+      min-height: 540px;
+    }
+    .ghbtn-placeholder {
+      min-height: 40px;
+    }
+  }
   .social-icon a {
     background: #3385FF;
     color: #fff;
