@@ -1,6 +1,21 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+'
+- name: Memory as Dynamics: Learning Reliability-Guided Predictive Models for Online Video Perception
+  i18n:
+  gh_user:
+  repo: 
+  img: /static/assets/img/landing/icml2026_minwoo.png
+  desc: Minwoo Kim, Sang Min Yoon "Memory as Dynamics: Learning Reliability-Guided Predictive Models for Online Video Perception", International Conference on Machine Learning(ICML) 2026, July 2026
+
+
+- name: SSM-Aware Token-Efficient VMamba via Adaptive Patch Pruning and Merging for Person Re-Identification
+  i18n:
+  gh_user: YuanHuang0982
+  repo: TE-VMamba
+  img: /static/assets/img/landing/cvpr2026_hyewon.png
+  desc: HyeWon Hwang and Sang Min Yoon, "SSM-Aware Token-Efficient VMamba via Adaptive Patch Pruning and Merging for Person Re-Identification", IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR) 2026, June 2026
 
 - name: AI 서울테크 장학금 수여
   i18n:

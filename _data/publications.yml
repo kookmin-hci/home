@@ -58,6 +58,15 @@
 #      url: 'https://www.schrodinger.com'
 #    - name: 'Paper Submission Celebration Photo'
 #      url: 'https://twitter.com/fraser_lab/status/956318642454474752'
+- citation: '**Minwoo Kim**, **Sang Min Yoon** "Memory as Dynamics: Learning Reliability-Guided Predictive Models for Online Video Perception", *International Conference on Machine Learning(ICML) 2026*, July 2026'
+  date: 2026
+  image: '/static/assets/img/pub/blank.jpg'
+  pdf: ''
+
+- citation: '**HyeWon Hwang**, **Sang Min Yoon** "SSM-Aware Token-Efficient VMamba via Adaptive Patch Pruning and Merging for Person Re-Identification", *IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR) 2026*, June 2026'
+  date: 2026
+  image: '/static/assets/img/pub/blank.jpg'
+  pdf: ''
 
 - citation: '**이재훈**, **윤상민** "계층적 Channel-wise Mamba 를 이용한 효율적인 이미지 분류", *제 38 회 영상처리 및 이해에 관한 워크샵 (IPIU 2026)*, February 2026'
   date: 2026
