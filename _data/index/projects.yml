@@ -3,8 +3,8 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: "Memory as Dynamics: Learning Reliability-Guided Predictive Models for Online Video Perception"
   i18n:
-  gh_user:
-  repo: 
+  gh_user: minwookim01
+  repo: memory-as-dynamics
   img: /static/assets/img/landing/icml2026_minwoo.png
   desc: "Minwoo Kim, Sang Min Yoon, Memory as Dynamics: Learning Reliability-Guided Predictive Models for Online Video Perception, International Conference on Machine Learning(ICML) 2026, July 2026"
 
