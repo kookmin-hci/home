@@ -58,7 +58,7 @@
 #      url: 'https://www.schrodinger.com'
 #    - name: 'Paper Submission Celebration Photo'
 #      url: 'https://twitter.com/fraser_lab/status/956318642454474752'
-- citation: '**Geonwoo Im**, **Sang Min Yoon** "Neural Collapse-Guided Plasticity Regularization for Prompt-based Few-Shot Class-Incremental Learning", *, Asian Conference on Computer Vision(ACCV) 2026*, October 2026'
+- citation: '**Geonwoo Im**, **Sang Min Yoon** "Neural Collapse-Guided Plasticity Regularization for Prompt-based Few-Shot Class-Incremental Learning", * Asian Conference on Computer Vision(ACCV) 2026*, October 2026'
   date: 2026
   image: '/static/assets/img/pub/blank.jpg'
   pdf: ''
