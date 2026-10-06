@@ -1,6 +1,13 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: "Neural Collapse-Guided Plasticity Regularization for Prompt-based Few-Shot Class-Incremental Learning"
+  i18n:
+  gh_user: 
+  repo: 
+  img: /static/assets/img/landing/accv2026_geonwoo.png
+  desc: "Geonwoo Im, Sang Min Yoon, Neural Collapse-Guided Plasticity Regularization for Prompt-based Few-Shot Class-Incremental Learning, Asian Conference on Computer Vision(ACCV) 2026, October 2026"
+
 - name: "Memory as Dynamics: Learning Reliability-Guided Predictive Models for Online Video Perception"
   i18n:
   gh_user: minwookim01
