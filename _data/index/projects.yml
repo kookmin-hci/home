@@ -3,10 +3,18 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: "Neural Collapse-Guided Plasticity Regularization for Prompt-based Few-Shot Class-Incremental Learning"
   i18n:
-  gh_user: 
-  repo: 
+  gh_user: geonwoo123
+  repo: nc-plasticity
   img: /static/assets/img/landing/accv2026_geonwoo.png
   desc: "Geonwoo Im, Sang Min Yoon, Neural Collapse-Guided Plasticity Regularization for Prompt-based Few-Shot Class-Incremental Learning, Asian Conference on Computer Vision(ACCV) 2026, October 2026"
+
+- name: "Point-Cloud-Aware 3D Gaussian Splatting Initialization for Novel View Synthesis"
+  i18n:
+  gh_user: DH0527
+  repo: point-aware-3DGS
+  img: /static/assets/img/landing/imavis_daeho.png
+  desc: "DaeHo Jo, Sang Min Yoon, Point-Cloud-Aware 3D Gaussian Splatting Initialization for Novel View Synthesis, Image and Vision Computing 2026, October 2026"
+
 
 - name: "Memory as Dynamics: Learning Reliability-Guided Predictive Models for Online Video Perception"
   i18n:
