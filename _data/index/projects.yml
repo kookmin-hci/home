@@ -1,6 +1,15 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+
+- name: "Monocular 3D Detection via Depth and Occupancy-Aware Representation Learning"
+  i18n:
+  gh_user: 
+  repo: 
+  img: /static/assets/img/landing/ieee2026_heetae.png
+  desc: "Heetae Han, Sang Min Yoon, Monocular 3D Detection via Depth and Occupancy-Aware Representation Learning, IEEE Transactions on Intelligent Vehicles 2026, October 2026"
+
+
 - name: "Neural Collapse-Guided Plasticity Regularization for Prompt-based Few-Shot Class-Incremental Learning"
   i18n:
   gh_user: geonwoo123
